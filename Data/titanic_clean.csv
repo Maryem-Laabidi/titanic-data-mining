@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Embarked
+1,Non-survécu,3ème classe,"Braund, Mr. Owen Harris",male,22.0,1,0,A/5 21171,7.25,Southampton
+2,Survécu,1ère classe,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,71.2833,Cherbourg
+3,Survécu,3ème classe,"Heikkinen, Miss. Laina",female,26.0,0,0,STON/O2. 3101282,7.925,Southampton
+4,Survécu,1ère classe,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,113803,53.1,Southampton
+5,Non-survécu,3ème classe,"Allen, Mr. William Henry",male,35.0,0,0,373450,8.05,Southampton
+6,Non-survécu,3ème classe,"Moran, Mr. James",male,29.69911764705882,0,0,330877,8.4583,Queenstown
+7,Non-survécu,1ère classe,"McCarthy, Mr. Timothy J",male,54.0,0,0,17463,51.8625,Southampton
+8,Non-survécu,3ème classe,"Palsson, Master. Gosta Leonard",male,2.0,3,1,349909,21.075,Southampton
+9,Survécu,3ème classe,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0,2,347742,11.1333,Southampton
+10,Survécu,2ème classe,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,0,237736,30.0708,Cherbourg
+11,Survécu,3ème classe,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,PP 9549,16.7,Southampton
+12,Survécu,1ère classe,"Bonnell, Miss. Elizabeth",female,58.0,0,0,113783,26.55,Southampton
+13,Non-survécu,3ème classe,"Saundercock, Mr. William Henry",male,20.0,0,0,A/5. 2151,8.05,Southampton
+14,Non-survécu,3ème classe,"Andersson, Mr. Anders Johan",male,39.0,1,5,347082,31.275,Southampton
+15,Non-survécu,3ème classe,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0,0,350406,7.8542,Southampton
+16,Survécu,2ème classe,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,0,248706,16.0,Southampton
+17,Non-survécu,3ème classe,"Rice, Master. Eugene",male,2.0,4,1,382652,29.125,Queenstown
+18,Survécu,2ème classe,"Williams, Mr. Charles Eugene",male,29.69911764705882,0,0,244373,13.0,Southampton
+19,Non-survécu,3ème classe,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,345763,18.0,Southampton
+20,Survécu,3ème classe,"Masselmani, Mrs. Fatima",female,29.69911764705882,0,0,2649,7.225,Cherbourg
+21,Non-survécu,2ème classe,"Fynney, Mr. Joseph J",male,35.0,0,0,239865,26.0,Southampton
+22,Survécu,2ème classe,"Beesley, Mr. Lawrence",male,34.0,0,0,248698,13.0,Southampton
+23,Survécu,3ème classe,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,330923,8.0292,Queenstown
+24,Survécu,1ère classe,"Sloper, Mr. William Thompson",male,28.0,0,0,113788,35.5,Southampton
+25,Non-survécu,3ème classe,"Palsson, Miss. Torborg Danira",female,8.0,3,1,349909,21.075,Southampton
+26,Survécu,3ème classe,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,347077,31.3875,Southampton
+27,Non-survécu,3ème classe,"Emir, Mr. Farred Chehab",male,29.69911764705882,0,0,2631,7.225,Cherbourg
+28,Non-survécu,1ère classe,"Fortune, Mr. Charles Alexander",male,19.0,3,2,19950,263.0,Southampton
+29,Survécu,3ème classe,"O'Dwyer, Miss. Ellen ""Nellie""",female,29.69911764705882,0,0,330959,7.8792,Queenstown
+30,Non-survécu,3ème classe,"Todoroff, Mr. Lalio",male,29.69911764705882,0,0,349216,7.8958,Southampton
+31,Non-survécu,1ère classe,"Uruchurtu, Don. Manuel E",male,40.0,0,0,PC 17601,27.7208,Cherbourg
+32,Survécu,1ère classe,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,29.69911764705882,1,0,PC 17569,146.5208,Cherbourg
+33,Survécu,3ème classe,"Glynn, Miss. Mary Agatha",female,29.69911764705882,0,0,335677,7.75,Queenstown
+34,Non-survécu,2ème classe,"Wheadon, Mr. Edward H",male,66.0,0,0,C.A. 24579,10.5,Southampton
+35,Non-survécu,1ère classe,"Meyer, Mr. Edgar Joseph",male,28.0,1,0,PC 17604,82.1708,Cherbourg
+36,Non-survécu,1ère classe,"Holverson, Mr. Alexander Oskar",male,42.0,1,0,113789,52.0,Southampton
+37,Survécu,3ème classe,"Mamee, Mr. Hanna",male,29.69911764705882,0,0,2677,7.2292,Cherbourg
+38,Non-survécu,3ème classe,"Cann, Mr. Ernest Charles",male,21.0,0,0,A./5. 2152,8.05,Southampton
+39,Non-survécu,3ème classe,"Vander Planke, Miss. Augusta Maria",female,18.0,2,0,345764,18.0,Southampton
+40,Survécu,3ème classe,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,2651,11.2417,Cherbourg
+41,Non-survécu,3ème classe,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,7546,9.475,Southampton
+42,Non-survécu,2ème classe,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1,0,11668,21.0,Southampton
+43,Non-survécu,3ème classe,"Kraeff, Mr. Theodor",male,29.69911764705882,0,0,349253,7.8958,Cherbourg
+44,Survécu,2ème classe,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,SC/Paris 2123,41.5792,Cherbourg
+45,Survécu,3ème classe,"Devaney, Miss. Margaret Delia",female,19.0,0,0,330958,7.8792,Queenstown
+46,Non-survécu,3ème classe,"Rogers, Mr. William John",male,29.69911764705882,0,0,S.C./A.4. 23567,8.05,Southampton
+47,Non-survécu,3ème classe,"Lennon, Mr. Denis",male,29.69911764705882,1,0,370371,15.5,Queenstown
+48,Survécu,3ème classe,"O'Driscoll, Miss. Bridget",female,29.69911764705882,0,0,14311,7.75,Queenstown
+49,Non-survécu,3ème classe,"Samaan, Mr. Youssef",male,29.69911764705882,2,0,2662,21.6792,Cherbourg
+50,Non-survécu,3ème classe,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1,0,349237,17.8,Southampton
+51,Non-survécu,3ème classe,"Panula, Master. Juha Niilo",male,7.0,4,1,3101295,39.6875,Southampton
+52,Non-survécu,3ème classe,"Nosworthy, Mr. Richard Cater",male,21.0,0,0,A/4. 39886,7.8,Southampton
+53,Survécu,1ère classe,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,PC 17572,76.7292,Cherbourg
+54,Survécu,2ème classe,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,0,2926,26.0,Southampton
+55,Non-survécu,1ère classe,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,1,113509,61.9792,Cherbourg
+56,Survécu,1ère classe,"Woolner, Mr. Hugh",male,29.69911764705882,0,0,19947,35.5,Southampton
+57,Survécu,2ème classe,"Rugg, Miss. Emily",female,21.0,0,0,C.A. 31026,10.5,Southampton
+58,Non-survécu,3ème classe,"Novel, Mr. Mansouer",male,28.5,0,0,2697,7.2292,Cherbourg
+59,Survécu,2ème classe,"West, Miss. Constance Mirium",female,5.0,1,2,C.A. 34651,27.75,Southampton
+60,Non-survécu,3ème classe,"Goodwin, Master. William Frederick",male,11.0,5,2,CA 2144,46.9,Southampton
+61,Non-survécu,3ème classe,"Sirayanian, Mr. Orsen",male,22.0,0,0,2669,7.2292,Cherbourg
+62,Survécu,1ère classe,"Icard, Miss. Amelie",female,38.0,0,0,113572,80.0,Southampton
+63,Non-survécu,1ère classe,"Harris, Mr. Henry Birkhardt",male,45.0,1,0,36973,83.475,Southampton
+64,Non-survécu,3ème classe,"Skoog, Master. Harald",male,4.0,3,2,347088,27.9,Southampton
+65,Non-survécu,1ère classe,"Stewart, Mr. Albert A",male,29.69911764705882,0,0,PC 17605,27.7208,Cherbourg
+66,Survécu,3ème classe,"Moubarek, Master. Gerios",male,29.69911764705882,1,1,2661,15.2458,Cherbourg
+67,Survécu,2ème classe,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,C.A. 29395,10.5,Southampton
+68,Non-survécu,3ème classe,"Crease, Mr. Ernest James",male,19.0,0,0,S.P. 3464,8.1583,Southampton
+69,Survécu,3ème classe,"Andersson, Miss. Erna Alexandra",female,17.0,4,2,3101281,7.925,Southampton
+70,Non-survécu,3ème classe,"Kink, Mr. Vincenz",male,26.0,2,0,315151,8.6625,Southampton
+71,Non-survécu,2ème classe,"Jenkin, Mr. Stephen Curnow",male,32.0,0,0,C.A. 33111,10.5,Southampton
+72,Non-survécu,3ème classe,"Goodwin, Miss. Lillian Amy",female,16.0,5,2,CA 2144,46.9,Southampton
+73,Non-survécu,2ème classe,"Hood, Mr. Ambrose Jr",male,21.0,0,0,S.O.C. 14879,73.5,Southampton
+74,Non-survécu,3ème classe,"Chronopoulos, Mr. Apostolos",male,26.0,1,0,2680,14.4542,Cherbourg
+75,Survécu,3ème classe,"Bing, Mr. Lee",male,32.0,0,0,1601,56.4958,Southampton
+76,Non-survécu,3ème classe,"Moen, Mr. Sigurd Hansen",male,25.0,0,0,348123,7.65,Southampton
+77,Non-survécu,3ème classe,"Staneff, Mr. Ivan",male,29.69911764705882,0,0,349208,7.8958,Southampton
+78,Non-survécu,3ème classe,"Moutal, Mr. Rahamin Haim",male,29.69911764705882,0,0,374746,8.05,Southampton
+79,Survécu,2ème classe,"Caldwell, Master. Alden Gates",male,0.83,0,2,248738,29.0,Southampton
+80,Survécu,3ème classe,"Dowdell, Miss. Elizabeth",female,30.0,0,0,364516,12.475,Southampton
+81,Non-survécu,3ème classe,"Waelens, Mr. Achille",male,22.0,0,0,345767,9.0,Southampton
+82,Survécu,3ème classe,"Sheerlinck, Mr. Jan Baptist",male,29.0,0,0,345779,9.5,Southampton
+83,Survécu,3ème classe,"McDermott, Miss. Brigdet Delia",female,29.69911764705882,0,0,330932,7.7875,Queenstown
+84,Non-survécu,1ère classe,"Carrau, Mr. Francisco M",male,28.0,0,0,113059,47.1,Southampton
+85,Survécu,2ème classe,"Ilett, Miss. Bertha",female,17.0,0,0,SO/C 14885,10.5,Southampton
+86,Survécu,3ème classe,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,0,3101278,15.85,Southampton
+87,Non-survécu,3ème classe,"Ford, Mr. William Neal",male,16.0,1,3,W./C. 6608,34.375,Southampton
+88,Non-survécu,3ème classe,"Slocovski, Mr. Selman Francis",male,29.69911764705882,0,0,SOTON/OQ 392086,8.05,Southampton
+89,Survécu,1ère classe,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,263.0,Southampton
+90,Non-survécu,3ème classe,"Celotti, Mr. Francesco",male,24.0,0,0,343275,8.05,Southampton
+91,Non-survécu,3ème classe,"Christmann, Mr. Emil",male,29.0,0,0,343276,8.05,Southampton
+92,Non-survécu,3ème classe,"Andreasson, Mr. Paul Edvin",male,20.0,0,0,347466,7.8542,Southampton
+93,Non-survécu,1ère classe,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,W.E.P. 5734,61.175,Southampton
+94,Non-survécu,3ème classe,"Dean, Mr. Bertram Frank",male,26.0,1,2,C.A. 2315,20.575,Southampton
+95,Non-survécu,3ème classe,"Coxon, Mr. Daniel",male,59.0,0,0,364500,7.25,Southampton
+96,Non-survécu,3ème classe,"Shorney, Mr. Charles Joseph",male,29.69911764705882,0,0,374910,8.05,Southampton
+97,Non-survécu,1ère classe,"Goldschmidt, Mr. George B",male,71.0,0,0,PC 17754,34.6542,Cherbourg
+98,Survécu,1ère classe,"Greenfield, Mr. William Bertram",male,23.0,0,1,PC 17759,63.3583,Cherbourg
+99,Survécu,2ème classe,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0,1,231919,23.0,Southampton
+100,Non-survécu,2ème classe,"Kantor, Mr. Sinai",male,34.0,1,0,244367,26.0,Southampton
+101,Non-survécu,3ème classe,"Petranec, Miss. Matilda",female,28.0,0,0,349245,7.8958,Southampton
+102,Non-survécu,3ème classe,"Petroff, Mr. Pastcho (""Pentcho"")",male,29.69911764705882,0,0,349215,7.8958,Southampton
+103,Non-survécu,1ère classe,"White, Mr. Richard Frasar",male,21.0,0,1,35281,77.2875,Southampton
+104,Non-survécu,3ème classe,"Johansson, Mr. Gustaf Joel",male,33.0,0,0,7540,8.6542,Southampton
+105,Non-survécu,3ème classe,"Gustafsson, Mr. Anders Vilhelm",male,37.0,2,0,3101276,7.925,Southampton
+106,Non-survécu,3ème classe,"Mionoff, Mr. Stoytcho",male,28.0,0,0,349207,7.8958,Southampton
+107,Survécu,3ème classe,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,343120,7.65,Southampton
+108,Survécu,3ème classe,"Moss, Mr. Albert Johan",male,29.69911764705882,0,0,312991,7.775,Southampton
+109,Non-survécu,3ème classe,"Rekic, Mr. Tido",male,38.0,0,0,349249,7.8958,Southampton
+110,Survécu,3ème classe,"Moran, Miss. Bertha",female,29.69911764705882,1,0,371110,24.15,Queenstown
+111,Non-survécu,1ère classe,"Porter, Mr. Walter Chamberlain",male,47.0,0,0,110465,52.0,Southampton
+112,Non-survécu,3ème classe,"Zabour, Miss. Hileni",female,14.5,1,0,2665,14.4542,Cherbourg
+113,Non-survécu,3ème classe,"Barton, Mr. David John",male,22.0,0,0,324669,8.05,Southampton
+114,Non-survécu,3ème classe,"Jussila, Miss. Katriina",female,20.0,1,0,4136,9.825,Southampton
+115,Non-survécu,3ème classe,"Attalah, Miss. Malake",female,17.0,0,0,2627,14.4583,Cherbourg
+116,Non-survécu,3ème classe,"Pekoniemi, Mr. Edvard",male,21.0,0,0,STON/O 2. 3101294,7.925,Southampton
+117,Non-survécu,3ème classe,"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,Queenstown
+118,Non-survécu,2ème classe,"Turpin, Mr. William John Robert",male,29.0,1,0,11668,21.0,Southampton
+119,Non-survécu,1ère classe,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,PC 17558,247.5208,Cherbourg
+120,Non-survécu,3ème classe,"Andersson, Miss. Ellis Anna Maria",female,2.0,4,2,347082,31.275,Southampton
+121,Non-survécu,2ème classe,"Hickman, Mr. Stanley George",male,21.0,2,0,S.O.C. 14879,73.5,Southampton
+122,Non-survécu,3ème classe,"Moore, Mr. Leonard Charles",male,29.69911764705882,0,0,A4. 54510,8.05,Southampton
+123,Non-survécu,2ème classe,"Nasser, Mr. Nicholas",male,32.5,1,0,237736,30.0708,Cherbourg
+124,Survécu,2ème classe,"Webber, Miss. Susan",female,32.5,0,0,27267,13.0,Southampton
+125,Non-survécu,1ère classe,"White, Mr. Percival Wayland",male,54.0,0,1,35281,77.2875,Southampton
+126,Survécu,3ème classe,"Nicola-Yarred, Master. Elias",male,12.0,1,0,2651,11.2417,Cherbourg
+127,Non-survécu,3ème classe,"McMahon, Mr. Martin",male,29.69911764705882,0,0,370372,7.75,Queenstown
+128,Survécu,3ème classe,"Madsen, Mr. Fridtjof Arne",male,24.0,0,0,C 17369,7.1417,Southampton
+129,Survécu,3ème classe,"Peter, Miss. Anna",female,29.69911764705882,1,1,2668,22.3583,Cherbourg
+130,Non-survécu,3ème classe,"Ekstrom, Mr. Johan",male,45.0,0,0,347061,6.975,Southampton
+131,Non-survécu,3ème classe,"Drazenoic, Mr. Jozef",male,33.0,0,0,349241,7.8958,Cherbourg
+132,Non-survécu,3ème classe,"Coelho, Mr. Domingos Fernandeo",male,20.0,0,0,SOTON/O.Q. 3101307,7.05,Southampton
+133,Non-survécu,3ème classe,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,1,0,A/5. 3337,14.5,Southampton
+134,Survécu,2ème classe,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,0,228414,26.0,Southampton
+135,Non-survécu,2ème classe,"Sobey, Mr. Samuel James Hayden",male,25.0,0,0,C.A. 29178,13.0,Southampton
+136,Non-survécu,2ème classe,"Richard, Mr. Emile",male,23.0,0,0,SC/PARIS 2133,15.0458,Cherbourg
+137,Survécu,1ère classe,"Newsom, Miss. Helen Monypeny",female,19.0,0,2,11752,26.2833,Southampton
+138,Non-survécu,1ère classe,"Futrelle, Mr. Jacques Heath",male,37.0,1,0,113803,53.1,Southampton
+139,Non-survécu,3ème classe,"Osen, Mr. Olaf Elon",male,16.0,0,0,7534,9.2167,Southampton
+140,Non-survécu,1ère classe,"Giglio, Mr. Victor",male,24.0,0,0,PC 17593,79.2,Cherbourg
+141,Non-survécu,3ème classe,"Boulos, Mrs. Joseph (Sultana)",female,29.69911764705882,0,2,2678,15.2458,Cherbourg
+142,Survécu,3ème classe,"Nysten, Miss. Anna Sofia",female,22.0,0,0,347081,7.75,Southampton
+143,Survécu,3ème classe,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,0,STON/O2. 3101279,15.85,Southampton
+144,Non-survécu,3ème classe,"Burke, Mr. Jeremiah",male,19.0,0,0,365222,6.75,Queenstown
+145,Non-survécu,2ème classe,"Andrew, Mr. Edgardo Samuel",male,18.0,0,0,231945,11.5,Southampton
+146,Non-survécu,2ème classe,"Nicholls, Mr. Joseph Charles",male,19.0,1,1,C.A. 33112,36.75,Southampton
+147,Survécu,3ème classe,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,0,0,350043,7.7958,Southampton
+148,Non-survécu,3ème classe,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2,2,W./C. 6608,34.375,Southampton
+149,Non-survécu,2ème classe,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,230080,26.0,Southampton
+150,Non-survécu,2ème classe,"Byles, Rev. Thomas Roussel Davids",male,42.0,0,0,244310,13.0,Southampton
+151,Non-survécu,2ème classe,"Bateman, Rev. Robert James",male,51.0,0,0,S.O.P. 1166,12.525,Southampton
+152,Survécu,1ère classe,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,113776,66.6,Southampton
+153,Non-survécu,3ème classe,"Meo, Mr. Alfonzo",male,55.5,0,0,A.5. 11206,8.05,Southampton
+154,Non-survécu,3ème classe,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,A/5. 851,14.5,Southampton
+155,Non-survécu,3ème classe,"Olsen, Mr. Ole Martin",male,29.69911764705882,0,0,Fa 265302,7.3125,Southampton
+156,Non-survécu,1ère classe,"Williams, Mr. Charles Duane",male,51.0,0,1,PC 17597,61.3792,Cherbourg
+157,Survécu,3ème classe,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,35851,7.7333,Queenstown
+158,Non-survécu,3ème classe,"Corn, Mr. Harry",male,30.0,0,0,SOTON/OQ 392090,8.05,Southampton
+159,Non-survécu,3ème classe,"Smiljanic, Mr. Mile",male,29.69911764705882,0,0,315037,8.6625,Southampton
+160,Non-survécu,3ème classe,"Sage, Master. Thomas Henry",male,29.69911764705882,8,2,CA. 2343,69.55,Southampton
+161,Non-survécu,3ème classe,"Cribb, Mr. John Hatfield",male,44.0,0,1,371362,16.1,Southampton
+162,Survécu,2ème classe,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,0,0,C.A. 33595,15.75,Southampton
+163,Non-survécu,3ème classe,"Bengtsson, Mr. John Viktor",male,26.0,0,0,347068,7.775,Southampton
+164,Non-survécu,3ème classe,"Calic, Mr. Jovo",male,17.0,0,0,315093,8.6625,Southampton
+165,Non-survécu,3ème classe,"Panula, Master. Eino Viljami",male,1.0,4,1,3101295,39.6875,Southampton
+166,Survécu,3ème classe,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,2,363291,20.525,Southampton
+167,Survécu,1ère classe,"Chibnall, Mrs. (Edith Martha Bowerman)",female,29.69911764705882,0,1,113505,55.0,Southampton
+168,Non-survécu,3ème classe,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,1,4,347088,27.9,Southampton
+169,Non-survécu,1ère classe,"Baumann, Mr. John D",male,29.69911764705882,0,0,PC 17318,25.925,Southampton
+170,Non-survécu,3ème classe,"Ling, Mr. Lee",male,28.0,0,0,1601,56.4958,Southampton
+171,Non-survécu,1ère classe,"Van der hoef, Mr. Wyckoff",male,61.0,0,0,111240,33.5,Southampton
+172,Non-survécu,3ème classe,"Rice, Master. Arthur",male,4.0,4,1,382652,29.125,Queenstown
+173,Survécu,3ème classe,"Johnson, Miss. Eleanor Ileen",female,1.0,1,1,347742,11.1333,Southampton
+174,Non-survécu,3ème classe,"Sivola, Mr. Antti Wilhelm",male,21.0,0,0,STON/O 2. 3101280,7.925,Southampton
+175,Non-survécu,1ère classe,"Smith, Mr. James Clinch",male,56.0,0,0,17764,30.6958,Cherbourg
+176,Non-survécu,3ème classe,"Klasen, Mr. Klas Albin",male,18.0,1,1,350404,7.8542,Southampton
+177,Non-survécu,3ème classe,"Lefebre, Master. Henry Forbes",male,29.69911764705882,3,1,4133,25.4667,Southampton
+178,Non-survécu,1ère classe,"Isham, Miss. Ann Elizabeth",female,50.0,0,0,PC 17595,28.7125,Cherbourg
+179,Non-survécu,2ème classe,"Hale, Mr. Reginald",male,30.0,0,0,250653,13.0,Southampton
+180,Non-survécu,3ème classe,"Leonard, Mr. Lionel",male,36.0,0,0,LINE,0.0,Southampton
+181,Non-survécu,3ème classe,"Sage, Miss. Constance Gladys",female,29.69911764705882,8,2,CA. 2343,69.55,Southampton
+182,Non-survécu,2ème classe,"Pernot, Mr. Rene",male,29.69911764705882,0,0,SC/PARIS 2131,15.05,Cherbourg
+183,Non-survécu,3ème classe,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,4,2,347077,31.3875,Southampton
+184,Survécu,2ème classe,"Becker, Master. Richard F",male,1.0,2,1,230136,39.0,Southampton
+185,Survécu,3ème classe,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,315153,22.025,Southampton
+186,Non-survécu,1ère classe,"Rood, Mr. Hugh Roscoe",male,29.69911764705882,0,0,113767,50.0,Southampton
+187,Survécu,3ème classe,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,29.69911764705882,1,0,370365,15.5,Queenstown
+188,Survécu,1ère classe,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0,0,111428,26.55,Southampton
+189,Non-survécu,3ème classe,"Bourke, Mr. John",male,40.0,1,1,364849,15.5,Queenstown
+190,Non-survécu,3ème classe,"Turcin, Mr. Stjepan",male,36.0,0,0,349247,7.8958,Southampton
+191,Survécu,2ème classe,"Pinsky, Mrs. (Rosa)",female,32.0,0,0,234604,13.0,Southampton
+192,Non-survécu,2ème classe,"Carbines, Mr. William",male,19.0,0,0,28424,13.0,Southampton
+193,Survécu,3ème classe,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,1,0,350046,7.8542,Southampton
+194,Survécu,2ème classe,"Navratil, Master. Michel M",male,3.0,1,1,230080,26.0,Southampton
+195,Survécu,1ère classe,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,0,PC 17610,27.7208,Cherbourg
+196,Survécu,1ère classe,"Lurette, Miss. Elise",female,58.0,0,0,PC 17569,146.5208,Cherbourg
+197,Non-survécu,3ème classe,"Mernagh, Mr. Robert",male,29.69911764705882,0,0,368703,7.75,Queenstown
+198,Non-survécu,3ème classe,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0,1,4579,8.4042,Southampton
+199,Survécu,3ème classe,"Madigan, Miss. Margaret ""Maggie""",female,29.69911764705882,0,0,370370,7.75,Queenstown
+200,Non-survécu,2ème classe,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0,0,248747,13.0,Southampton
+201,Non-survécu,3ème classe,"Vande Walle, Mr. Nestor Cyriel",male,28.0,0,0,345770,9.5,Southampton
+202,Non-survécu,3ème classe,"Sage, Mr. Frederick",male,29.69911764705882,8,2,CA. 2343,69.55,Southampton
+203,Non-survécu,3ème classe,"Johanson, Mr. Jakob Alfred",male,34.0,0,0,3101264,6.4958,Southampton
+204,Non-survécu,3ème classe,"Youseff, Mr. Gerious",male,45.5,0,0,2628,7.225,Cherbourg
+205,Survécu,3ème classe,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0,0,A/5 3540,8.05,Southampton
+206,Non-survécu,3ème classe,"Strom, Miss. Telma Matilda",female,2.0,0,1,347054,10.4625,Southampton
+207,Non-survécu,3ème classe,"Backstrom, Mr. Karl Alfred",male,32.0,1,0,3101278,15.85,Southampton
+208,Survécu,3ème classe,"Albimona, Mr. Nassef Cassem",male,26.0,0,0,2699,18.7875,Cherbourg
+209,Survécu,3ème classe,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,367231,7.75,Queenstown
+210,Survécu,1ère classe,"Blank, Mr. Henry",male,40.0,0,0,112277,31.0,Cherbourg
+211,Non-survécu,3ème classe,"Ali, Mr. Ahmed",male,24.0,0,0,SOTON/O.Q. 3101311,7.05,Southampton
+212,Survécu,2ème classe,"Cameron, Miss. Clear Annie",female,35.0,0,0,F.C.C. 13528,21.0,Southampton
+213,Non-survécu,3ème classe,"Perkin, Mr. John Henry",male,22.0,0,0,A/5 21174,7.25,Southampton
+214,Non-survécu,2ème classe,"Givard, Mr. Hans Kristensen",male,30.0,0,0,250646,13.0,Southampton
+215,Non-survécu,3ème classe,"Kiernan, Mr. Philip",male,29.69911764705882,1,0,367229,7.75,Queenstown
+216,Survécu,1ère classe,"Newell, Miss. Madeleine",female,31.0,1,0,35273,113.275,Cherbourg
+217,Survécu,3ème classe,"Honkanen, Miss. Eliina",female,27.0,0,0,STON/O2. 3101283,7.925,Southampton
+218,Non-survécu,2ème classe,"Jacobsohn, Mr. Sidney Samuel",male,42.0,1,0,243847,27.0,Southampton
+219,Survécu,1ère classe,"Bazzani, Miss. Albina",female,32.0,0,0,11813,76.2917,Cherbourg
+220,Non-survécu,2ème classe,"Harris, Mr. Walter",male,30.0,0,0,W/C 14208,10.5,Southampton
+221,Survécu,3ème classe,"Sunderland, Mr. Victor Francis",male,16.0,0,0,SOTON/OQ 392089,8.05,Southampton
+222,Non-survécu,2ème classe,"Bracken, Mr. James H",male,27.0,0,0,220367,13.0,Southampton
+223,Non-survécu,3ème classe,"Green, Mr. George Henry",male,51.0,0,0,21440,8.05,Southampton
+224,Non-survécu,3ème classe,"Nenkoff, Mr. Christo",male,29.69911764705882,0,0,349234,7.8958,Southampton
+225,Survécu,1ère classe,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,0,19943,90.0,Southampton
+226,Non-survécu,3ème classe,"Berglund, Mr. Karl Ivar Sven",male,22.0,0,0,PP 4348,9.35,Southampton
+227,Survécu,2ème classe,"Mellors, Mr. William John",male,19.0,0,0,SW/PP 751,10.5,Southampton
+228,Non-survécu,3ème classe,"Lovell, Mr. John Hall (""Henry"")",male,20.5,0,0,A/5 21173,7.25,Southampton
+229,Non-survécu,2ème classe,"Fahlstrom, Mr. Arne Jonas",male,18.0,0,0,236171,13.0,Southampton
+230,Non-survécu,3ème classe,"Lefebre, Miss. Mathilde",female,29.69911764705882,3,1,4133,25.4667,Southampton
+231,Survécu,1ère classe,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,36973,83.475,Southampton
+232,Non-survécu,3ème classe,"Larsson, Mr. Bengt Edvin",male,29.0,0,0,347067,7.775,Southampton
+233,Non-survécu,2ème classe,"Sjostedt, Mr. Ernst Adolf",male,59.0,0,0,237442,13.5,Southampton
+234,Survécu,3ème classe,"Asplund, Miss. Lillian Gertrud",female,5.0,4,2,347077,31.3875,Southampton
+235,Non-survécu,2ème classe,"Leyson, Mr. Robert William Norman",male,24.0,0,0,C.A. 29566,10.5,Southampton
+236,Non-survécu,3ème classe,"Harknett, Miss. Alice Phoebe",female,29.69911764705882,0,0,W./C. 6609,7.55,Southampton
+237,Non-survécu,2ème classe,"Hold, Mr. Stephen",male,44.0,1,0,26707,26.0,Southampton
+238,Survécu,2ème classe,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0,2,C.A. 31921,26.25,Southampton
+239,Non-survécu,2ème classe,"Pengelly, Mr. Frederick William",male,19.0,0,0,28665,10.5,Southampton
+240,Non-survécu,2ème classe,"Hunt, Mr. George Henry",male,33.0,0,0,SCO/W 1585,12.275,Southampton
+241,Non-survécu,3ème classe,"Zabour, Miss. Thamine",female,29.69911764705882,1,0,2665,14.4542,Cherbourg
+242,Survécu,3ème classe,"Murphy, Miss. Katherine ""Kate""",female,29.69911764705882,1,0,367230,15.5,Queenstown
+243,Non-survécu,2ème classe,"Coleridge, Mr. Reginald Charles",male,29.0,0,0,W./C. 14263,10.5,Southampton
+244,Non-survécu,3ème classe,"Maenpaa, Mr. Matti Alexanteri",male,22.0,0,0,STON/O 2. 3101275,7.125,Southampton
+245,Non-survécu,3ème classe,"Attalah, Mr. Sleiman",male,30.0,0,0,2694,7.225,Cherbourg
+246,Non-survécu,1ère classe,"Minahan, Dr. William Edward",male,44.0,2,0,19928,90.0,Queenstown
+247,Non-survécu,3ème classe,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,0,0,347071,7.775,Southampton
+248,Survécu,2ème classe,"Hamalainen, Mrs. William (Anna)",female,24.0,0,2,250649,14.5,Southampton
+249,Survécu,1ère classe,"Beckwith, Mr. Richard Leonard",male,37.0,1,1,11751,52.5542,Southampton
+250,Non-survécu,2ème classe,"Carter, Rev. Ernest Courtenay",male,54.0,1,0,244252,26.0,Southampton
+251,Non-survécu,3ème classe,"Reed, Mr. James George",male,29.69911764705882,0,0,362316,7.25,Southampton
+252,Non-survécu,3ème classe,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,1,1,347054,10.4625,Southampton
+253,Non-survécu,1ère classe,"Stead, Mr. William Thomas",male,62.0,0,0,113514,26.55,Southampton
+254,Non-survécu,3ème classe,"Lobb, Mr. William Arthur",male,30.0,1,0,A/5. 3336,16.1,Southampton
+255,Non-survécu,3ème classe,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0,2,370129,20.2125,Southampton
+256,Survécu,3ème classe,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,2,2650,15.2458,Cherbourg
+257,Survécu,1ère classe,"Thorne, Mrs. Gertrude Maybelle",female,29.69911764705882,0,0,PC 17585,79.2,Cherbourg
+258,Survécu,1ère classe,"Cherry, Miss. Gladys",female,30.0,0,0,110152,86.5,Southampton
+259,Survécu,1ère classe,"Ward, Miss. Anna",female,35.0,0,0,PC 17755,512.3292,Cherbourg
+260,Survécu,2ème classe,"Parrish, Mrs. (Lutie Davis)",female,50.0,0,1,230433,26.0,Southampton
+261,Non-survécu,3ème classe,"Smith, Mr. Thomas",male,29.69911764705882,0,0,384461,7.75,Queenstown
+262,Survécu,3ème classe,"Asplund, Master. Edvin Rojj Felix",male,3.0,4,2,347077,31.3875,Southampton
+263,Non-survécu,1ère classe,"Taussig, Mr. Emil",male,52.0,1,1,110413,79.65,Southampton
+264,Non-survécu,1ère classe,"Harrison, Mr. William",male,40.0,0,0,112059,0.0,Southampton
+265,Non-survécu,3ème classe,"Henry, Miss. Delia",female,29.69911764705882,0,0,382649,7.75,Queenstown
+266,Non-survécu,2ème classe,"Reeves, Mr. David",male,36.0,0,0,C.A. 17248,10.5,Southampton
+267,Non-survécu,3ème classe,"Panula, Mr. Ernesti Arvid",male,16.0,4,1,3101295,39.6875,Southampton
+268,Survécu,3ème classe,"Persson, Mr. Ernst Ulrik",male,25.0,1,0,347083,7.775,Southampton
+269,Survécu,1ère classe,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,PC 17582,153.4625,Southampton
+270,Survécu,1ère classe,"Bissette, Miss. Amelia",female,35.0,0,0,PC 17760,135.6333,Southampton
+271,Non-survécu,1ère classe,"Cairns, Mr. Alexander",male,29.69911764705882,0,0,113798,31.0,Southampton
+272,Survécu,3ème classe,"Tornquist, Mr. William Henry",male,25.0,0,0,LINE,0.0,Southampton
+273,Survécu,2ème classe,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,0,1,250644,19.5,Southampton
+274,Non-survécu,1ère classe,"Natsch, Mr. Charles H",male,37.0,0,1,PC 17596,29.7,Cherbourg
+275,Survécu,3ème classe,"Healy, Miss. Hanora ""Nora""",female,29.69911764705882,0,0,370375,7.75,Queenstown
+276,Survécu,1ère classe,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,0,13502,77.9583,Southampton
+277,Non-survécu,3ème classe,"Lindblom, Miss. Augusta Charlotta",female,45.0,0,0,347073,7.75,Southampton
+278,Non-survécu,2ème classe,"Parkes, Mr. Francis ""Frank""",male,29.69911764705882,0,0,239853,0.0,Southampton
+279,Non-survécu,3ème classe,"Rice, Master. Eric",male,7.0,4,1,382652,29.125,Queenstown
+280,Survécu,3ème classe,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1,1,C.A. 2673,20.25,Southampton
+281,Non-survécu,3ème classe,"Duane, Mr. Frank",male,65.0,0,0,336439,7.75,Queenstown
+282,Non-survécu,3ème classe,"Olsson, Mr. Nils Johan Goransson",male,28.0,0,0,347464,7.8542,Southampton
+283,Non-survécu,3ème classe,"de Pelsmaeker, Mr. Alfons",male,16.0,0,0,345778,9.5,Southampton
+284,Survécu,3ème classe,"Dorking, Mr. Edward Arthur",male,19.0,0,0,A/5. 10482,8.05,Southampton
+285,Non-survécu,1ère classe,"Smith, Mr. Richard William",male,29.69911764705882,0,0,113056,26.0,Southampton
+286,Non-survécu,3ème classe,"Stankovic, Mr. Ivan",male,33.0,0,0,349239,8.6625,Cherbourg
+287,Survécu,3ème classe,"de Mulder, Mr. Theodore",male,30.0,0,0,345774,9.5,Southampton
+288,Non-survécu,3ème classe,"Naidenoff, Mr. Penko",male,22.0,0,0,349206,7.8958,Southampton
+289,Survécu,2ème classe,"Hosono, Mr. Masabumi",male,42.0,0,0,237798,13.0,Southampton
+290,Survécu,3ème classe,"Connolly, Miss. Kate",female,22.0,0,0,370373,7.75,Queenstown
+291,Survécu,1ère classe,"Barber, Miss. Ellen ""Nellie""",female,26.0,0,0,19877,78.85,Southampton
+292,Survécu,1ère classe,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,11967,91.0792,Cherbourg
+293,Non-survécu,2ème classe,"Levy, Mr. Rene Jacques",male,36.0,0,0,SC/Paris 2163,12.875,Cherbourg
+294,Non-survécu,3ème classe,"Haas, Miss. Aloisia",female,24.0,0,0,349236,8.85,Southampton
+295,Non-survécu,3ème classe,"Mineff, Mr. Ivan",male,24.0,0,0,349233,7.8958,Southampton
+296,Non-survécu,1ère classe,"Lewy, Mr. Ervin G",male,29.69911764705882,0,0,PC 17612,27.7208,Cherbourg
+297,Non-survécu,3ème classe,"Hanna, Mr. Mansour",male,23.5,0,0,2693,7.2292,Cherbourg
+298,Non-survécu,1ère classe,"Allison, Miss. Helen Loraine",female,2.0,1,2,113781,151.55,Southampton
+299,Survécu,1ère classe,"Saalfeld, Mr. Adolphe",male,29.69911764705882,0,0,19988,30.5,Southampton
+300,Survécu,1ère classe,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,PC 17558,247.5208,Cherbourg
+301,Survécu,3ème classe,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,29.69911764705882,0,0,9234,7.75,Queenstown
+302,Survécu,3ème classe,"McCoy, Mr. Bernard",male,29.69911764705882,2,0,367226,23.25,Queenstown
+303,Non-survécu,3ème classe,"Johnson, Mr. William Cahoone Jr",male,19.0,0,0,LINE,0.0,Southampton
+304,Survécu,2ème classe,"Keane, Miss. Nora A",female,29.69911764705882,0,0,226593,12.35,Queenstown
+305,Non-survécu,3ème classe,"Williams, Mr. Howard Hugh ""Harry""",male,29.69911764705882,0,0,A/5 2466,8.05,Southampton
+306,Survécu,1ère classe,"Allison, Master. Hudson Trevor",male,0.92,1,2,113781,151.55,Southampton
+307,Survécu,1ère classe,"Fleming, Miss. Margaret",female,29.69911764705882,0,0,17421,110.8833,Cherbourg
+308,Survécu,1ère classe,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,PC 17758,108.9,Cherbourg
+309,Non-survécu,2ème classe,"Abelson, Mr. Samuel",male,30.0,1,0,P/PP 3381,24.0,Cherbourg
+310,Survécu,1ère classe,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,PC 17485,56.9292,Cherbourg
+311,Survécu,1ère classe,"Hays, Miss. Margaret Bechstein",female,24.0,0,0,11767,83.1583,Cherbourg
+312,Survécu,1ère classe,"Ryerson, Miss. Emily Borie",female,18.0,2,2,PC 17608,262.375,Cherbourg
+313,Non-survécu,2ème classe,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,1,1,250651,26.0,Southampton
+314,Non-survécu,3ème classe,"Hendekovic, Mr. Ignjac",male,28.0,0,0,349243,7.8958,Southampton
+315,Non-survécu,2ème classe,"Hart, Mr. Benjamin",male,43.0,1,1,F.C.C. 13529,26.25,Southampton
+316,Survécu,3ème classe,"Nilsson, Miss. Helmina Josefina",female,26.0,0,0,347470,7.8542,Southampton
+317,Survécu,2ème classe,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,0,244367,26.0,Southampton
+318,Non-survécu,2ème classe,"Moraweck, Dr. Ernest",male,54.0,0,0,29011,14.0,Southampton
+319,Survécu,1ère classe,"Wick, Miss. Mary Natalie",female,31.0,0,2,36928,164.8667,Southampton
+320,Survécu,1ère classe,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,1,16966,134.5,Cherbourg
+321,Non-survécu,3ème classe,"Dennis, Mr. Samuel",male,22.0,0,0,A/5 21172,7.25,Southampton
+322,Non-survécu,3ème classe,"Danoff, Mr. Yoto",male,27.0,0,0,349219,7.8958,Southampton
+323,Survécu,2ème classe,"Slayter, Miss. Hilda Mary",female,30.0,0,0,234818,12.35,Queenstown
+324,Survécu,2ème classe,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1,1,248738,29.0,Southampton
+325,Non-survécu,3ème classe,"Sage, Mr. George John Jr",male,29.69911764705882,8,2,CA. 2343,69.55,Southampton
+326,Survécu,1ère classe,"Young, Miss. Marie Grice",female,36.0,0,0,PC 17760,135.6333,Cherbourg
+327,Non-survécu,3ème classe,"Nysveen, Mr. Johan Hansen",male,61.0,0,0,345364,6.2375,Southampton
+328,Survécu,2ème classe,"Ball, Mrs. (Ada E Hall)",female,36.0,0,0,28551,13.0,Southampton
+329,Survécu,3ème classe,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,1,1,363291,20.525,Southampton
+330,Survécu,1ère classe,"Hippach, Miss. Jean Gertrude",female,16.0,0,1,111361,57.9792,Cherbourg
+331,Survécu,3ème classe,"McCoy, Miss. Agnes",female,29.69911764705882,2,0,367226,23.25,Queenstown
+332,Non-survécu,1ère classe,"Partner, Mr. Austen",male,45.5,0,0,113043,28.5,Southampton
+333,Non-survécu,1ère classe,"Graham, Mr. George Edward",male,38.0,0,1,PC 17582,153.4625,Southampton
+334,Non-survécu,3ème classe,"Vander Planke, Mr. Leo Edmondus",male,16.0,2,0,345764,18.0,Southampton
+335,Survécu,1ère classe,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,29.69911764705882,1,0,PC 17611,133.65,Southampton
+336,Non-survécu,3ème classe,"Denkoff, Mr. Mitto",male,29.69911764705882,0,0,349225,7.8958,Southampton
+337,Non-survécu,1ère classe,"Pears, Mr. Thomas Clinton",male,29.0,1,0,113776,66.6,Southampton
+338,Survécu,1ère classe,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,16966,134.5,Cherbourg
+339,Survécu,3ème classe,"Dahl, Mr. Karl Edwart",male,45.0,0,0,7598,8.05,Southampton
+340,Non-survécu,1ère classe,"Blackwell, Mr. Stephen Weart",male,45.0,0,0,113784,35.5,Southampton
+341,Survécu,2ème classe,"Navratil, Master. Edmond Roger",male,2.0,1,1,230080,26.0,Southampton
+342,Survécu,1ère classe,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,19950,263.0,Southampton
+343,Non-survécu,2ème classe,"Collander, Mr. Erik Gustaf",male,28.0,0,0,248740,13.0,Southampton
+344,Non-survécu,2ème classe,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0,0,244361,13.0,Southampton
+345,Non-survécu,2ème classe,"Fox, Mr. Stanley Hubert",male,36.0,0,0,229236,13.0,Southampton
+346,Survécu,2ème classe,"Brown, Miss. Amelia ""Mildred""",female,24.0,0,0,248733,13.0,Southampton
+347,Survécu,2ème classe,"Smith, Miss. Marion Elsie",female,40.0,0,0,31418,13.0,Southampton
+348,Survécu,3ème classe,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,29.69911764705882,1,0,386525,16.1,Southampton
+349,Survécu,3ème classe,"Coutts, Master. William Loch ""William""",male,3.0,1,1,C.A. 37671,15.9,Southampton
+350,Non-survécu,3ème classe,"Dimic, Mr. Jovan",male,42.0,0,0,315088,8.6625,Southampton
+351,Non-survécu,3ème classe,"Odahl, Mr. Nils Martin",male,23.0,0,0,7267,9.225,Southampton
+352,Non-survécu,1ère classe,"Williams-Lambert, Mr. Fletcher Fellows",male,29.69911764705882,0,0,113510,35.0,Southampton
+353,Non-survécu,3ème classe,"Elias, Mr. Tannous",male,15.0,1,1,2695,7.2292,Cherbourg
+354,Non-survécu,3ème classe,"Arnold-Franchi, Mr. Josef",male,25.0,1,0,349237,17.8,Southampton
+355,Non-survécu,3ème classe,"Yousif, Mr. Wazli",male,29.69911764705882,0,0,2647,7.225,Cherbourg
+356,Non-survécu,3ème classe,"Vanden Steen, Mr. Leo Peter",male,28.0,0,0,345783,9.5,Southampton
+357,Survécu,1ère classe,"Bowerman, Miss. Elsie Edith",female,22.0,0,1,113505,55.0,Southampton
+358,Non-survécu,2ème classe,"Funk, Miss. Annie Clemmer",female,38.0,0,0,237671,13.0,Southampton
+359,Survécu,3ème classe,"McGovern, Miss. Mary",female,29.69911764705882,0,0,330931,7.8792,Queenstown
+360,Survécu,3ème classe,"Mockler, Miss. Helen Mary ""Ellie""",female,29.69911764705882,0,0,330980,7.8792,Queenstown
+361,Non-survécu,3ème classe,"Skoog, Mr. Wilhelm",male,40.0,1,4,347088,27.9,Southampton
+362,Non-survécu,2ème classe,"del Carlo, Mr. Sebastiano",male,29.0,1,0,SC/PARIS 2167,27.7208,Cherbourg
+363,Non-survécu,3ème classe,"Barbara, Mrs. (Catherine David)",female,45.0,0,1,2691,14.4542,Cherbourg
+364,Non-survécu,3ème classe,"Asim, Mr. Adola",male,35.0,0,0,SOTON/O.Q. 3101310,7.05,Southampton
+365,Non-survécu,3ème classe,"O'Brien, Mr. Thomas",male,29.69911764705882,1,0,370365,15.5,Queenstown
+366,Non-survécu,3ème classe,"Adahl, Mr. Mauritz Nils Martin",male,30.0,0,0,C 7076,7.25,Southampton
+367,Survécu,1ère classe,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,0,110813,75.25,Cherbourg
+368,Survécu,3ème classe,"Moussa, Mrs. (Mantoura Boulos)",female,29.69911764705882,0,0,2626,7.2292,Cherbourg
+369,Survécu,3ème classe,"Jermyn, Miss. Annie",female,29.69911764705882,0,0,14313,7.75,Queenstown
+370,Survécu,1ère classe,"Aubart, Mme. Leontine Pauline",female,24.0,0,0,PC 17477,69.3,Cherbourg
+371,Survécu,1ère classe,"Harder, Mr. George Achilles",male,25.0,1,0,11765,55.4417,Cherbourg
+372,Non-survécu,3ème classe,"Wiklund, Mr. Jakob Alfred",male,18.0,1,0,3101267,6.4958,Southampton
+373,Non-survécu,3ème classe,"Beavan, Mr. William Thomas",male,19.0,0,0,323951,8.05,Southampton
+374,Non-survécu,1ère classe,"Ringhini, Mr. Sante",male,22.0,0,0,PC 17760,135.6333,Cherbourg
+375,Non-survécu,3ème classe,"Palsson, Miss. Stina Viola",female,3.0,3,1,349909,21.075,Southampton
+376,Survécu,1ère classe,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,29.69911764705882,1,0,PC 17604,82.1708,Cherbourg
+377,Survécu,3ème classe,"Landergren, Miss. Aurora Adelia",female,22.0,0,0,C 7077,7.25,Southampton
+378,Non-survécu,1ère classe,"Widener, Mr. Harry Elkins",male,27.0,0,2,113503,211.5,Cherbourg
+379,Non-survécu,3ème classe,"Betros, Mr. Tannous",male,20.0,0,0,2648,4.0125,Cherbourg
+380,Non-survécu,3ème classe,"Gustafsson, Mr. Karl Gideon",male,19.0,0,0,347069,7.775,Southampton
+381,Survécu,1ère classe,"Bidois, Miss. Rosalie",female,42.0,0,0,PC 17757,227.525,Cherbourg
+382,Survécu,3ème classe,"Nakid, Miss. Maria (""Mary"")",female,1.0,0,2,2653,15.7417,Cherbourg
+383,Non-survécu,3ème classe,"Tikkanen, Mr. Juho",male,32.0,0,0,STON/O 2. 3101293,7.925,Southampton
+384,Survécu,1ère classe,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,0,113789,52.0,Southampton
+385,Non-survécu,3ème classe,"Plotcharsky, Mr. Vasil",male,29.69911764705882,0,0,349227,7.8958,Southampton
+386,Non-survécu,2ème classe,"Davies, Mr. Charles Henry",male,18.0,0,0,S.O.C. 14879,73.5,Southampton
+387,Non-survécu,3ème classe,"Goodwin, Master. Sidney Leonard",male,1.0,5,2,CA 2144,46.9,Southampton
+388,Survécu,2ème classe,"Buss, Miss. Kate",female,36.0,0,0,27849,13.0,Southampton
+389,Non-survécu,3ème classe,"Sadlier, Mr. Matthew",male,29.69911764705882,0,0,367655,7.7292,Queenstown
+390,Survécu,2ème classe,"Lehmann, Miss. Bertha",female,17.0,0,0,SC 1748,12.0,Cherbourg
+391,Survécu,1ère classe,"Carter, Mr. William Ernest",male,36.0,1,2,113760,120.0,Southampton
+392,Survécu,3ème classe,"Jansson, Mr. Carl Olof",male,21.0,0,0,350034,7.7958,Southampton
+393,Non-survécu,3ème classe,"Gustafsson, Mr. Johan Birger",male,28.0,2,0,3101277,7.925,Southampton
+394,Survécu,1ère classe,"Newell, Miss. Marjorie",female,23.0,1,0,35273,113.275,Cherbourg
+395,Survécu,3ème classe,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,2,PP 9549,16.7,Southampton
+396,Non-survécu,3ème classe,"Johansson, Mr. Erik",male,22.0,0,0,350052,7.7958,Southampton
+397,Non-survécu,3ème classe,"Olsson, Miss. Elina",female,31.0,0,0,350407,7.8542,Southampton
+398,Non-survécu,2ème classe,"McKane, Mr. Peter David",male,46.0,0,0,28403,26.0,Southampton
+399,Non-survécu,2ème classe,"Pain, Dr. Alfred",male,23.0,0,0,244278,10.5,Southampton
+400,Survécu,2ème classe,"Trout, Mrs. William H (Jessie L)",female,28.0,0,0,240929,12.65,Southampton
+401,Survécu,3ème classe,"Niskanen, Mr. Juha",male,39.0,0,0,STON/O 2. 3101289,7.925,Southampton
+402,Non-survécu,3ème classe,"Adams, Mr. John",male,26.0,0,0,341826,8.05,Southampton
+403,Non-survécu,3ème classe,"Jussila, Miss. Mari Aina",female,21.0,1,0,4137,9.825,Southampton
+404,Non-survécu,3ème classe,"Hakkarainen, Mr. Pekka Pietari",male,28.0,1,0,STON/O2. 3101279,15.85,Southampton
+405,Non-survécu,3ème classe,"Oreskovic, Miss. Marija",female,20.0,0,0,315096,8.6625,Southampton
+406,Non-survécu,2ème classe,"Gale, Mr. Shadrach",male,34.0,1,0,28664,21.0,Southampton
+407,Non-survécu,3ème classe,"Widegren, Mr. Carl/Charles Peter",male,51.0,0,0,347064,7.75,Southampton
+408,Survécu,2ème classe,"Richards, Master. William Rowe",male,3.0,1,1,29106,18.75,Southampton
+409,Non-survécu,3ème classe,"Birkeland, Mr. Hans Martin Monsen",male,21.0,0,0,312992,7.775,Southampton
+410,Non-survécu,3ème classe,"Lefebre, Miss. Ida",female,29.69911764705882,3,1,4133,25.4667,Southampton
+411,Non-survécu,3ème classe,"Sdycoff, Mr. Todor",male,29.69911764705882,0,0,349222,7.8958,Southampton
+412,Non-survécu,3ème classe,"Hart, Mr. Henry",male,29.69911764705882,0,0,394140,6.8583,Queenstown
+413,Survécu,1ère classe,"Minahan, Miss. Daisy E",female,33.0,1,0,19928,90.0,Queenstown
+414,Non-survécu,2ème classe,"Cunningham, Mr. Alfred Fleming",male,29.69911764705882,0,0,239853,0.0,Southampton
+415,Survécu,3ème classe,"Sundman, Mr. Johan Julian",male,44.0,0,0,STON/O 2. 3101269,7.925,Southampton
+416,Non-survécu,3ème classe,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,29.69911764705882,0,0,343095,8.05,Southampton
+417,Survécu,2ème classe,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1,1,28220,32.5,Southampton
+418,Survécu,2ème classe,"Silven, Miss. Lyyli Karoliina",female,18.0,0,2,250652,13.0,Southampton
+419,Non-survécu,2ème classe,"Matthews, Mr. William John",male,30.0,0,0,28228,13.0,Southampton
+420,Non-survécu,3ème classe,"Van Impe, Miss. Catharina",female,10.0,0,2,345773,24.15,Southampton
+421,Non-survécu,3ème classe,"Gheorgheff, Mr. Stanio",male,29.69911764705882,0,0,349254,7.8958,Cherbourg
+422,Non-survécu,3ème classe,"Charters, Mr. David",male,21.0,0,0,A/5. 13032,7.7333,Queenstown
+423,Non-survécu,3ème classe,"Zimmerman, Mr. Leo",male,29.0,0,0,315082,7.875,Southampton
+424,Non-survécu,3ème classe,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,1,1,347080,14.4,Southampton
+425,Non-survécu,3ème classe,"Rosblom, Mr. Viktor Richard",male,18.0,1,1,370129,20.2125,Southampton
+426,Non-survécu,3ème classe,"Wiseman, Mr. Phillippe",male,29.69911764705882,0,0,A/4. 34244,7.25,Southampton
+427,Survécu,2ème classe,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1,0,2003,26.0,Southampton
+428,Survécu,2ème classe,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0,0,250655,26.0,Southampton
+429,Non-survécu,3ème classe,"Flynn, Mr. James",male,29.69911764705882,0,0,364851,7.75,Queenstown
+430,Survécu,3ème classe,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0,0,SOTON/O.Q. 392078,8.05,Southampton
+431,Survécu,1ère classe,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0,0,110564,26.55,Southampton
+432,Survécu,3ème classe,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,29.69911764705882,1,0,376564,16.1,Southampton
+433,Survécu,2ème classe,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1,0,SC/AH 3085,26.0,Southampton
+434,Non-survécu,3ème classe,"Kallio, Mr. Nikolai Erland",male,17.0,0,0,STON/O 2. 3101274,7.125,Southampton
+435,Non-survécu,1ère classe,"Silvey, Mr. William Baird",male,50.0,1,0,13507,55.9,Southampton
+436,Survécu,1ère classe,"Carter, Miss. Lucile Polk",female,14.0,1,2,113760,120.0,Southampton
+437,Non-survécu,3ème classe,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,2,2,W./C. 6608,34.375,Southampton
+438,Survécu,2ème classe,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2,3,29106,18.75,Southampton
+439,Non-survécu,1ère classe,"Fortune, Mr. Mark",male,64.0,1,4,19950,263.0,Southampton
+440,Non-survécu,2ème classe,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,0,C.A. 18723,10.5,Southampton
+441,Survécu,2ème classe,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1,1,F.C.C. 13529,26.25,Southampton
+442,Non-survécu,3ème classe,"Hampe, Mr. Leon",male,20.0,0,0,345769,9.5,Southampton
+443,Non-survécu,3ème classe,"Petterson, Mr. Johan Emil",male,25.0,1,0,347076,7.775,Southampton
+444,Survécu,2ème classe,"Reynaldo, Ms. Encarnacion",female,28.0,0,0,230434,13.0,Southampton
+445,Survécu,3ème classe,"Johannesen-Bratthammer, Mr. Bernt",male,29.69911764705882,0,0,65306,8.1125,Southampton
+446,Survécu,1ère classe,"Dodge, Master. Washington",male,4.0,0,2,33638,81.8583,Southampton
+447,Survécu,2ème classe,"Mellinger, Miss. Madeleine Violet",female,13.0,0,1,250644,19.5,Southampton
+448,Survécu,1ère classe,"Seward, Mr. Frederic Kimber",male,34.0,0,0,113794,26.55,Southampton
+449,Survécu,3ème classe,"Baclini, Miss. Marie Catherine",female,5.0,2,1,2666,19.2583,Cherbourg
+450,Survécu,1ère classe,"Peuchen, Major. Arthur Godfrey",male,52.0,0,0,113786,30.5,Southampton
+451,Non-survécu,2ème classe,"West, Mr. Edwy Arthur",male,36.0,1,2,C.A. 34651,27.75,Southampton
+452,Non-survécu,3ème classe,"Hagland, Mr. Ingvald Olai Olsen",male,29.69911764705882,1,0,65303,19.9667,Southampton
+453,Non-survécu,1ère classe,"Foreman, Mr. Benjamin Laventall",male,30.0,0,0,113051,27.75,Cherbourg
+454,Survécu,1ère classe,"Goldenberg, Mr. Samuel L",male,49.0,1,0,17453,89.1042,Cherbourg
+455,Non-survécu,3ème classe,"Peduzzi, Mr. Joseph",male,29.69911764705882,0,0,A/5 2817,8.05,Southampton
+456,Survécu,3ème classe,"Jalsevac, Mr. Ivan",male,29.0,0,0,349240,7.8958,Cherbourg
+457,Non-survécu,1ère classe,"Millet, Mr. Francis Davis",male,65.0,0,0,13509,26.55,Southampton
+458,Survécu,1ère classe,"Kenyon, Mrs. Frederick R (Marion)",female,29.69911764705882,1,0,17464,51.8625,Southampton
+459,Survécu,2ème classe,"Toomey, Miss. Ellen",female,50.0,0,0,F.C.C. 13531,10.5,Southampton
+460,Non-survécu,3ème classe,"O'Connor, Mr. Maurice",male,29.69911764705882,0,0,371060,7.75,Queenstown
+461,Survécu,1ère classe,"Anderson, Mr. Harry",male,48.0,0,0,19952,26.55,Southampton
+462,Non-survécu,3ème classe,"Morley, Mr. William",male,34.0,0,0,364506,8.05,Southampton
+463,Non-survécu,1ère classe,"Gee, Mr. Arthur H",male,47.0,0,0,111320,38.5,Southampton
+464,Non-survécu,2ème classe,"Milling, Mr. Jacob Christian",male,48.0,0,0,234360,13.0,Southampton
+465,Non-survécu,3ème classe,"Maisner, Mr. Simon",male,29.69911764705882,0,0,A/S 2816,8.05,Southampton
+466,Non-survécu,3ème classe,"Goncalves, Mr. Manuel Estanslas",male,38.0,0,0,SOTON/O.Q. 3101306,7.05,Southampton
+467,Non-survécu,2ème classe,"Campbell, Mr. William",male,29.69911764705882,0,0,239853,0.0,Southampton
+468,Non-survécu,1ère classe,"Smart, Mr. John Montgomery",male,56.0,0,0,113792,26.55,Southampton
+469,Non-survécu,3ème classe,"Scanlan, Mr. James",male,29.69911764705882,0,0,36209,7.725,Queenstown
+470,Survécu,3ème classe,"Baclini, Miss. Helene Barbara",female,0.75,2,1,2666,19.2583,Cherbourg
+471,Non-survécu,3ème classe,"Keefe, Mr. Arthur",male,29.69911764705882,0,0,323592,7.25,Southampton
+472,Non-survécu,3ème classe,"Cacic, Mr. Luka",male,38.0,0,0,315089,8.6625,Southampton
+473,Survécu,2ème classe,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,1,2,C.A. 34651,27.75,Southampton
+474,Survécu,2ème classe,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,SC/AH Basle 541,13.7917,Cherbourg
+475,Non-survécu,3ème classe,"Strandberg, Miss. Ida Sofia",female,22.0,0,0,7553,9.8375,Southampton
+476,Non-survécu,1ère classe,"Clifford, Mr. George Quincy",male,29.69911764705882,0,0,110465,52.0,Southampton
+477,Non-survécu,2ème classe,"Renouf, Mr. Peter Henry",male,34.0,1,0,31027,21.0,Southampton
+478,Non-survécu,3ème classe,"Braund, Mr. Lewis Richard",male,29.0,1,0,3460,7.0458,Southampton
+479,Non-survécu,3ème classe,"Karlsson, Mr. Nils August",male,22.0,0,0,350060,7.5208,Southampton
+480,Survécu,3ème classe,"Hirvonen, Miss. Hildur E",female,2.0,0,1,3101298,12.2875,Southampton
+481,Non-survécu,3ème classe,"Goodwin, Master. Harold Victor",male,9.0,5,2,CA 2144,46.9,Southampton
+482,Non-survécu,2ème classe,"Frost, Mr. Anthony Wood ""Archie""",male,29.69911764705882,0,0,239854,0.0,Southampton
+483,Non-survécu,3ème classe,"Rouse, Mr. Richard Henry",male,50.0,0,0,A/5 3594,8.05,Southampton
+484,Survécu,3ème classe,"Turkula, Mrs. (Hedwig)",female,63.0,0,0,4134,9.5875,Southampton
+485,Survécu,1ère classe,"Bishop, Mr. Dickinson H",male,25.0,1,0,11967,91.0792,Cherbourg
+486,Non-survécu,3ème classe,"Lefebre, Miss. Jeannie",female,29.69911764705882,3,1,4133,25.4667,Southampton
+487,Survécu,1ère classe,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,0,19943,90.0,Southampton
+488,Non-survécu,1ère classe,"Kent, Mr. Edward Austin",male,58.0,0,0,11771,29.7,Cherbourg
+489,Non-survécu,3ème classe,"Somerton, Mr. Francis William",male,30.0,0,0,A.5. 18509,8.05,Southampton
+490,Survécu,3ème classe,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,1,C.A. 37671,15.9,Southampton
+491,Non-survécu,3ème classe,"Hagland, Mr. Konrad Mathias Reiersen",male,29.69911764705882,1,0,65304,19.9667,Southampton
+492,Non-survécu,3ème classe,"Windelov, Mr. Einar",male,21.0,0,0,SOTON/OQ 3101317,7.25,Southampton
+493,Non-survécu,1ère classe,"Molson, Mr. Harry Markland",male,55.0,0,0,113787,30.5,Southampton
+494,Non-survécu,1ère classe,"Artagaveytia, Mr. Ramon",male,71.0,0,0,PC 17609,49.5042,Cherbourg
+495,Non-survécu,3ème classe,"Stanley, Mr. Edward Roland",male,21.0,0,0,A/4 45380,8.05,Southampton
+496,Non-survécu,3ème classe,"Yousseff, Mr. Gerious",male,29.69911764705882,0,0,2627,14.4583,Cherbourg
+497,Survécu,1ère classe,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,0,36947,78.2667,Cherbourg
+498,Non-survécu,3ème classe,"Shellard, Mr. Frederick William",male,29.69911764705882,0,0,C.A. 6212,15.1,Southampton
+499,Non-survécu,1ère classe,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,1,2,113781,151.55,Southampton
+500,Non-survécu,3ème classe,"Svensson, Mr. Olof",male,24.0,0,0,350035,7.7958,Southampton
+501,Non-survécu,3ème classe,"Calic, Mr. Petar",male,17.0,0,0,315086,8.6625,Southampton
+502,Non-survécu,3ème classe,"Canavan, Miss. Mary",female,21.0,0,0,364846,7.75,Queenstown
+503,Non-survécu,3ème classe,"O'Sullivan, Miss. Bridget Mary",female,29.69911764705882,0,0,330909,7.6292,Queenstown
+504,Non-survécu,3ème classe,"Laitinen, Miss. Kristina Sofia",female,37.0,0,0,4135,9.5875,Southampton
+505,Survécu,1ère classe,"Maioni, Miss. Roberta",female,16.0,0,0,110152,86.5,Southampton
+506,Non-survécu,1ère classe,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1,0,PC 17758,108.9,Cherbourg
+507,Survécu,2ème classe,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0,2,26360,26.0,Southampton
+508,Survécu,1ère classe,"Bradley, Mr. George (""George Arthur Brayton"")",male,29.69911764705882,0,0,111427,26.55,Southampton
+509,Non-survécu,3ème classe,"Olsen, Mr. Henry Margido",male,28.0,0,0,C 4001,22.525,Southampton
+510,Survécu,3ème classe,"Lang, Mr. Fang",male,26.0,0,0,1601,56.4958,Southampton
+511,Survécu,3ème classe,"Daly, Mr. Eugene Patrick",male,29.0,0,0,382651,7.75,Queenstown
+512,Non-survécu,3ème classe,"Webber, Mr. James",male,29.69911764705882,0,0,SOTON/OQ 3101316,8.05,Southampton
+513,Survécu,1ère classe,"McGough, Mr. James Robert",male,36.0,0,0,PC 17473,26.2875,Southampton
+514,Survécu,1ère classe,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1,0,PC 17603,59.4,Cherbourg
+515,Non-survécu,3ème classe,"Coleff, Mr. Satio",male,24.0,0,0,349209,7.4958,Southampton
+516,Non-survécu,1ère classe,"Walker, Mr. William Anderson",male,47.0,0,0,36967,34.0208,Southampton
+517,Survécu,2ème classe,"Lemore, Mrs. (Amelia Milley)",female,34.0,0,0,C.A. 34260,10.5,Southampton
+518,Non-survécu,3ème classe,"Ryan, Mr. Patrick",male,29.69911764705882,0,0,371110,24.15,Queenstown
+519,Survécu,2ème classe,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1,0,226875,26.0,Southampton
+520,Non-survécu,3ème classe,"Pavlovic, Mr. Stefo",male,32.0,0,0,349242,7.8958,Southampton
+521,Survécu,1ère classe,"Perreault, Miss. Anne",female,30.0,0,0,12749,93.5,Southampton
+522,Non-survécu,3ème classe,"Vovk, Mr. Janko",male,22.0,0,0,349252,7.8958,Southampton
+523,Non-survécu,3ème classe,"Lahoud, Mr. Sarkis",male,29.69911764705882,0,0,2624,7.225,Cherbourg
+524,Survécu,1ère classe,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0,1,111361,57.9792,Cherbourg
+525,Non-survécu,3ème classe,"Kassem, Mr. Fared",male,29.69911764705882,0,0,2700,7.2292,Cherbourg
+526,Non-survécu,3ème classe,"Farrell, Mr. James",male,40.5,0,0,367232,7.75,Queenstown
+527,Survécu,2ème classe,"Ridsdale, Miss. Lucy",female,50.0,0,0,W./C. 14258,10.5,Southampton
+528,Non-survécu,1ère classe,"Farthing, Mr. John",male,29.69911764705882,0,0,PC 17483,221.7792,Southampton
+529,Non-survécu,3ème classe,"Salonen, Mr. Johan Werner",male,39.0,0,0,3101296,7.925,Southampton
+530,Non-survécu,2ème classe,"Hocking, Mr. Richard George",male,23.0,2,1,29104,11.5,Southampton
+531,Survécu,2ème classe,"Quick, Miss. Phyllis May",female,2.0,1,1,26360,26.0,Southampton
+532,Non-survécu,3ème classe,"Toufik, Mr. Nakli",male,29.69911764705882,0,0,2641,7.2292,Cherbourg
+533,Non-survécu,3ème classe,"Elias, Mr. Joseph Jr",male,17.0,1,1,2690,7.2292,Cherbourg
+534,Survécu,3ème classe,"Peter, Mrs. Catherine (Catherine Rizk)",female,29.69911764705882,0,2,2668,22.3583,Cherbourg
+535,Non-survécu,3ème classe,"Cacic, Miss. Marija",female,30.0,0,0,315084,8.6625,Southampton
+536,Survécu,2ème classe,"Hart, Miss. Eva Miriam",female,7.0,0,2,F.C.C. 13529,26.25,Southampton
+537,Non-survécu,1ère classe,"Butt, Major. Archibald Willingham",male,45.0,0,0,113050,26.55,Southampton
+538,Survécu,1ère classe,"LeRoy, Miss. Bertha",female,30.0,0,0,PC 17761,106.425,Cherbourg
+539,Non-survécu,3ème classe,"Risien, Mr. Samuel Beard",male,29.69911764705882,0,0,364498,14.5,Southampton
+540,Survécu,1ère classe,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,13568,49.5,Cherbourg
+541,Survécu,1ère classe,"Crosby, Miss. Harriet R",female,36.0,0,2,WE/P 5735,71.0,Southampton
+542,Non-survécu,3ème classe,"Andersson, Miss. Ingeborg Constanzia",female,9.0,4,2,347082,31.275,Southampton
+543,Non-survécu,3ème classe,"Andersson, Miss. Sigrid Elisabeth",female,11.0,4,2,347082,31.275,Southampton
+544,Survécu,2ème classe,"Beane, Mr. Edward",male,32.0,1,0,2908,26.0,Southampton
+545,Non-survécu,1ère classe,"Douglas, Mr. Walter Donald",male,50.0,1,0,PC 17761,106.425,Cherbourg
+546,Non-survécu,1ère classe,"Nicholson, Mr. Arthur Ernest",male,64.0,0,0,693,26.0,Southampton
+547,Survécu,2ème classe,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1,0,2908,26.0,Southampton
+548,Survécu,2ème classe,"Padro y Manent, Mr. Julian",male,29.69911764705882,0,0,SC/PARIS 2146,13.8625,Cherbourg
+549,Non-survécu,3ème classe,"Goldsmith, Mr. Frank John",male,33.0,1,1,363291,20.525,Southampton
+550,Survécu,2ème classe,"Davies, Master. John Morgan Jr",male,8.0,1,1,C.A. 33112,36.75,Southampton
+551,Survécu,1ère classe,"Thayer, Mr. John Borland Jr",male,17.0,0,2,17421,110.8833,Cherbourg
+552,Non-survécu,2ème classe,"Sharp, Mr. Percival James R",male,27.0,0,0,244358,26.0,Southampton
+553,Non-survécu,3ème classe,"O'Brien, Mr. Timothy",male,29.69911764705882,0,0,330979,7.8292,Queenstown
+554,Survécu,3ème classe,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,0,0,2620,7.225,Cherbourg
+555,Survécu,3ème classe,"Ohman, Miss. Velin",female,22.0,0,0,347085,7.775,Southampton
+556,Non-survécu,1ère classe,"Wright, Mr. George",male,62.0,0,0,113807,26.55,Southampton
+557,Survécu,1ère classe,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,0,11755,39.6,Cherbourg
+558,Non-survécu,1ère classe,"Robbins, Mr. Victor",male,29.69911764705882,0,0,PC 17757,227.525,Cherbourg
+559,Survécu,1ère classe,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,1,110413,79.65,Southampton
+560,Survécu,3ème classe,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1,0,345572,17.4,Southampton
+561,Non-survécu,3ème classe,"Morrow, Mr. Thomas Rowan",male,29.69911764705882,0,0,372622,7.75,Queenstown
+562,Non-survécu,3ème classe,"Sivic, Mr. Husein",male,40.0,0,0,349251,7.8958,Southampton
+563,Non-survécu,2ème classe,"Norman, Mr. Robert Douglas",male,28.0,0,0,218629,13.5,Southampton
+564,Non-survécu,3ème classe,"Simmons, Mr. John",male,29.69911764705882,0,0,SOTON/OQ 392082,8.05,Southampton
+565,Non-survécu,3ème classe,"Meanwell, Miss. (Marion Ogden)",female,29.69911764705882,0,0,SOTON/O.Q. 392087,8.05,Southampton
+566,Non-survécu,3ème classe,"Davies, Mr. Alfred J",male,24.0,2,0,A/4 48871,24.15,Southampton
+567,Non-survécu,3ème classe,"Stoytcheff, Mr. Ilia",male,19.0,0,0,349205,7.8958,Southampton
+568,Non-survécu,3ème classe,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,0,4,349909,21.075,Southampton
+569,Non-survécu,3ème classe,"Doharr, Mr. Tannous",male,29.69911764705882,0,0,2686,7.2292,Cherbourg
+570,Survécu,3ème classe,"Jonsson, Mr. Carl",male,32.0,0,0,350417,7.8542,Southampton
+571,Survécu,2ème classe,"Harris, Mr. George",male,62.0,0,0,S.W./PP 752,10.5,Southampton
+572,Survécu,1ère classe,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,0,11769,51.4792,Southampton
+573,Survécu,1ère classe,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0,0,PC 17474,26.3875,Southampton
+574,Survécu,3ème classe,"Kelly, Miss. Mary",female,29.69911764705882,0,0,14312,7.75,Queenstown
+575,Non-survécu,3ème classe,"Rush, Mr. Alfred George John",male,16.0,0,0,A/4. 20589,8.05,Southampton
+576,Non-survécu,3ème classe,"Patchett, Mr. George",male,19.0,0,0,358585,14.5,Southampton
+577,Survécu,2ème classe,"Garside, Miss. Ethel",female,34.0,0,0,243880,13.0,Southampton
+578,Survécu,1ère classe,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,0,13507,55.9,Southampton
+579,Non-survécu,3ème classe,"Caram, Mrs. Joseph (Maria Elias)",female,29.69911764705882,1,0,2689,14.4583,Cherbourg
+580,Survécu,3ème classe,"Jussila, Mr. Eiriik",male,32.0,0,0,STON/O 2. 3101286,7.925,Southampton
+581,Survécu,2ème classe,"Christy, Miss. Julie Rachel",female,25.0,1,1,237789,30.0,Southampton
+582,Survécu,1ère classe,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,1,17421,110.8833,Cherbourg
+583,Non-survécu,2ème classe,"Downton, Mr. William James",male,54.0,0,0,28403,26.0,Southampton
+584,Non-survécu,1ère classe,"Ross, Mr. John Hugo",male,36.0,0,0,13049,40.125,Cherbourg
+585,Non-survécu,3ème classe,"Paulner, Mr. Uscher",male,29.69911764705882,0,0,3411,8.7125,Cherbourg
+586,Survécu,1ère classe,"Taussig, Miss. Ruth",female,18.0,0,2,110413,79.65,Southampton
+587,Non-survécu,2ème classe,"Jarvis, Mr. John Denzil",male,47.0,0,0,237565,15.0,Southampton
+588,Survécu,1ère classe,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,1,13567,79.2,Cherbourg
+589,Non-survécu,3ème classe,"Gilinski, Mr. Eliezer",male,22.0,0,0,14973,8.05,Southampton
+590,Non-survécu,3ème classe,"Murdlin, Mr. Joseph",male,29.69911764705882,0,0,A./5. 3235,8.05,Southampton
+591,Non-survécu,3ème classe,"Rintamaki, Mr. Matti",male,35.0,0,0,STON/O 2. 3101273,7.125,Southampton
+592,Survécu,1ère classe,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1,0,36947,78.2667,Cherbourg
+593,Non-survécu,3ème classe,"Elsbury, Mr. William James",male,47.0,0,0,A/5 3902,7.25,Southampton
+594,Non-survécu,3ème classe,"Bourke, Miss. Mary",female,29.69911764705882,0,2,364848,7.75,Queenstown
+595,Non-survécu,2ème classe,"Chapman, Mr. John Henry",male,37.0,1,0,SC/AH 29037,26.0,Southampton
+596,Non-survécu,3ème classe,"Van Impe, Mr. Jean Baptiste",male,36.0,1,1,345773,24.15,Southampton
+597,Survécu,2ème classe,"Leitch, Miss. Jessie Wills",female,29.69911764705882,0,0,248727,33.0,Southampton
+598,Non-survécu,3ème classe,"Johnson, Mr. Alfred",male,49.0,0,0,LINE,0.0,Southampton
+599,Non-survécu,3ème classe,"Boulos, Mr. Hanna",male,29.69911764705882,0,0,2664,7.225,Cherbourg
+600,Survécu,1ère classe,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,0,PC 17485,56.9292,Cherbourg
+601,Survécu,2ème classe,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,2,1,243847,27.0,Southampton
+602,Non-survécu,3ème classe,"Slabenoff, Mr. Petco",male,29.69911764705882,0,0,349214,7.8958,Southampton
+603,Non-survécu,1ère classe,"Harrington, Mr. Charles H",male,29.69911764705882,0,0,113796,42.4,Southampton
+604,Non-survécu,3ème classe,"Torber, Mr. Ernst William",male,44.0,0,0,364511,8.05,Southampton
+605,Survécu,1ère classe,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0,0,111426,26.55,Cherbourg
+606,Non-survécu,3ème classe,"Lindell, Mr. Edvard Bengtsson",male,36.0,1,0,349910,15.55,Southampton
+607,Non-survécu,3ème classe,"Karaic, Mr. Milan",male,30.0,0,0,349246,7.8958,Southampton
+608,Survécu,1ère classe,"Daniel, Mr. Robert Williams",male,27.0,0,0,113804,30.5,Southampton
+609,Survécu,2ème classe,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,1,2,SC/Paris 2123,41.5792,Cherbourg
+610,Survécu,1ère classe,"Shutes, Miss. Elizabeth W",female,40.0,0,0,PC 17582,153.4625,Southampton
+611,Non-survécu,3ème classe,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,1,5,347082,31.275,Southampton
+612,Non-survécu,3ème classe,"Jardin, Mr. Jose Neto",male,29.69911764705882,0,0,SOTON/O.Q. 3101305,7.05,Southampton
+613,Survécu,3ème classe,"Murphy, Miss. Margaret Jane",female,29.69911764705882,1,0,367230,15.5,Queenstown
+614,Non-survécu,3ème classe,"Horgan, Mr. John",male,29.69911764705882,0,0,370377,7.75,Queenstown
+615,Non-survécu,3ème classe,"Brocklebank, Mr. William Alfred",male,35.0,0,0,364512,8.05,Southampton
+616,Survécu,2ème classe,"Herman, Miss. Alice",female,24.0,1,2,220845,65.0,Southampton
+617,Non-survécu,3ème classe,"Danbom, Mr. Ernst Gilbert",male,34.0,1,1,347080,14.4,Southampton
+618,Non-survécu,3ème classe,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,1,0,A/5. 3336,16.1,Southampton
+619,Survécu,2ème classe,"Becker, Miss. Marion Louise",female,4.0,2,1,230136,39.0,Southampton
+620,Non-survécu,2ème classe,"Gavey, Mr. Lawrence",male,26.0,0,0,31028,10.5,Southampton
+621,Non-survécu,3ème classe,"Yasbeck, Mr. Antoni",male,27.0,1,0,2659,14.4542,Cherbourg
+622,Survécu,1ère classe,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1,0,11753,52.5542,Southampton
+623,Survécu,3ème classe,"Nakid, Mr. Sahid",male,20.0,1,1,2653,15.7417,Cherbourg
+624,Non-survécu,3ème classe,"Hansen, Mr. Henry Damsgaard",male,21.0,0,0,350029,7.8542,Southampton
+625,Non-survécu,3ème classe,"Bowen, Mr. David John ""Dai""",male,21.0,0,0,54636,16.1,Southampton
+626,Non-survécu,1ère classe,"Sutton, Mr. Frederick",male,61.0,0,0,36963,32.3208,Southampton
+627,Non-survécu,2ème classe,"Kirkland, Rev. Charles Leonard",male,57.0,0,0,219533,12.35,Queenstown
+628,Survécu,1ère classe,"Longley, Miss. Gretchen Fiske",female,21.0,0,0,13502,77.9583,Southampton
+629,Non-survécu,3ème classe,"Bostandyeff, Mr. Guentcho",male,26.0,0,0,349224,7.8958,Southampton
+630,Non-survécu,3ème classe,"O'Connell, Mr. Patrick D",male,29.69911764705882,0,0,334912,7.7333,Queenstown
+631,Survécu,1ère classe,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0,0,27042,30.0,Southampton
+632,Non-survécu,3ème classe,"Lundahl, Mr. Johan Svensson",male,51.0,0,0,347743,7.0542,Southampton
+633,Survécu,1ère classe,"Stahelin-Maeglin, Dr. Max",male,32.0,0,0,13214,30.5,Cherbourg
+634,Non-survécu,1ère classe,"Parr, Mr. William Henry Marsh",male,29.69911764705882,0,0,112052,0.0,Southampton
+635,Non-survécu,3ème classe,"Skoog, Miss. Mabel",female,9.0,3,2,347088,27.9,Southampton
+636,Survécu,2ème classe,"Davis, Miss. Mary",female,28.0,0,0,237668,13.0,Southampton
+637,Non-survécu,3ème classe,"Leinonen, Mr. Antti Gustaf",male,32.0,0,0,STON/O 2. 3101292,7.925,Southampton
+638,Non-survécu,2ème classe,"Collyer, Mr. Harvey",male,31.0,1,1,C.A. 31921,26.25,Southampton
+639,Non-survécu,3ème classe,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,0,5,3101295,39.6875,Southampton
+640,Non-survécu,3ème classe,"Thorneycroft, Mr. Percival",male,29.69911764705882,1,0,376564,16.1,Southampton
+641,Non-survécu,3ème classe,"Jensen, Mr. Hans Peder",male,20.0,0,0,350050,7.8542,Southampton
+642,Survécu,1ère classe,"Sagesser, Mlle. Emma",female,24.0,0,0,PC 17477,69.3,Cherbourg
+643,Non-survécu,3ème classe,"Skoog, Miss. Margit Elizabeth",female,2.0,3,2,347088,27.9,Southampton
+644,Survécu,3ème classe,"Foo, Mr. Choong",male,29.69911764705882,0,0,1601,56.4958,Southampton
+645,Survécu,3ème classe,"Baclini, Miss. Eugenie",female,0.75,2,1,2666,19.2583,Cherbourg
+646,Survécu,1ère classe,"Harper, Mr. Henry Sleeper",male,48.0,1,0,PC 17572,76.7292,Cherbourg
+647,Non-survécu,3ème classe,"Cor, Mr. Liudevit",male,19.0,0,0,349231,7.8958,Southampton
+648,Survécu,1ère classe,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,0,0,13213,35.5,Cherbourg
+649,Non-survécu,3ème classe,"Willey, Mr. Edward",male,29.69911764705882,0,0,S.O./P.P. 751,7.55,Southampton
+650,Survécu,3ème classe,"Stanley, Miss. Amy Zillah Elsie",female,23.0,0,0,CA. 2314,7.55,Southampton
+651,Non-survécu,3ème classe,"Mitkoff, Mr. Mito",male,29.69911764705882,0,0,349221,7.8958,Southampton
+652,Survécu,2ème classe,"Doling, Miss. Elsie",female,18.0,0,1,231919,23.0,Southampton
+653,Non-survécu,3ème classe,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0,0,8475,8.4333,Southampton
+654,Survécu,3ème classe,"O'Leary, Miss. Hanora ""Norah""",female,29.69911764705882,0,0,330919,7.8292,Queenstown
+655,Non-survécu,3ème classe,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0,0,365226,6.75,Queenstown
+656,Non-survécu,2ème classe,"Hickman, Mr. Leonard Mark",male,24.0,2,0,S.O.C. 14879,73.5,Southampton
+657,Non-survécu,3ème classe,"Radeff, Mr. Alexander",male,29.69911764705882,0,0,349223,7.8958,Southampton
+658,Non-survécu,3ème classe,"Bourke, Mrs. John (Catherine)",female,32.0,1,1,364849,15.5,Queenstown
+659,Non-survécu,2ème classe,"Eitemiller, Mr. George Floyd",male,23.0,0,0,29751,13.0,Southampton
+660,Non-survécu,1ère classe,"Newell, Mr. Arthur Webster",male,58.0,0,2,35273,113.275,Cherbourg
+661,Survécu,1ère classe,"Frauenthal, Dr. Henry William",male,50.0,2,0,PC 17611,133.65,Southampton
+662,Non-survécu,3ème classe,"Badt, Mr. Mohamed",male,40.0,0,0,2623,7.225,Cherbourg
+663,Non-survécu,1ère classe,"Colley, Mr. Edward Pomeroy",male,47.0,0,0,5727,25.5875,Southampton
+664,Non-survécu,3ème classe,"Coleff, Mr. Peju",male,36.0,0,0,349210,7.4958,Southampton
+665,Survécu,3ème classe,"Lindqvist, Mr. Eino William",male,20.0,1,0,STON/O 2. 3101285,7.925,Southampton
+666,Non-survécu,2ème classe,"Hickman, Mr. Lewis",male,32.0,2,0,S.O.C. 14879,73.5,Southampton
+667,Non-survécu,2ème classe,"Butler, Mr. Reginald Fenton",male,25.0,0,0,234686,13.0,Southampton
+668,Non-survécu,3ème classe,"Rommetvedt, Mr. Knud Paust",male,29.69911764705882,0,0,312993,7.775,Southampton
+669,Non-survécu,3ème classe,"Cook, Mr. Jacob",male,43.0,0,0,A/5 3536,8.05,Southampton
+670,Survécu,1ère classe,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,29.69911764705882,1,0,19996,52.0,Southampton
+671,Survécu,2ème classe,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1,1,29750,39.0,Southampton
+672,Non-survécu,1ère classe,"Davidson, Mr. Thornton",male,31.0,1,0,F.C. 12750,52.0,Southampton
+673,Non-survécu,2ème classe,"Mitchell, Mr. Henry Michael",male,70.0,0,0,C.A. 24580,10.5,Southampton
+674,Survécu,2ème classe,"Wilhelms, Mr. Charles",male,31.0,0,0,244270,13.0,Southampton
+675,Non-survécu,2ème classe,"Watson, Mr. Ennis Hastings",male,29.69911764705882,0,0,239856,0.0,Southampton
+676,Non-survécu,3ème classe,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,0,0,349912,7.775,Southampton
+677,Non-survécu,3ème classe,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,342826,8.05,Southampton
+678,Survécu,3ème classe,"Turja, Miss. Anna Sofia",female,18.0,0,0,4138,9.8417,Southampton
+679,Non-survécu,3ème classe,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,1,6,CA 2144,46.9,Southampton
+680,Survécu,1ère classe,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,PC 17755,512.3292,Cherbourg
+681,Non-survécu,3ème classe,"Peters, Miss. Katie",female,29.69911764705882,0,0,330935,8.1375,Queenstown
+682,Survécu,1ère classe,"Hassab, Mr. Hammad",male,27.0,0,0,PC 17572,76.7292,Cherbourg
+683,Non-survécu,3ème classe,"Olsvigen, Mr. Thor Anderson",male,20.0,0,0,6563,9.225,Southampton
+684,Non-survécu,3ème classe,"Goodwin, Mr. Charles Edward",male,14.0,5,2,CA 2144,46.9,Southampton
+685,Non-survécu,2ème classe,"Brown, Mr. Thomas William Solomon",male,60.0,1,1,29750,39.0,Southampton
+686,Non-survécu,2ème classe,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1,2,SC/Paris 2123,41.5792,Cherbourg
+687,Non-survécu,3ème classe,"Panula, Mr. Jaako Arnold",male,14.0,4,1,3101295,39.6875,Southampton
+688,Non-survécu,3ème classe,"Dakic, Mr. Branko",male,19.0,0,0,349228,10.1708,Southampton
+689,Non-survécu,3ème classe,"Fischer, Mr. Eberhard Thelander",male,18.0,0,0,350036,7.7958,Southampton
+690,Survécu,1ère classe,"Madill, Miss. Georgette Alexandra",female,15.0,0,1,24160,211.3375,Southampton
+691,Survécu,1ère classe,"Dick, Mr. Albert Adrian",male,31.0,1,0,17474,57.0,Southampton
+692,Survécu,3ème classe,"Karun, Miss. Manca",female,4.0,0,1,349256,13.4167,Cherbourg
+693,Survécu,3ème classe,"Lam, Mr. Ali",male,29.69911764705882,0,0,1601,56.4958,Southampton
+694,Non-survécu,3ème classe,"Saad, Mr. Khalil",male,25.0,0,0,2672,7.225,Cherbourg
+695,Non-survécu,1ère classe,"Weir, Col. John",male,60.0,0,0,113800,26.55,Southampton
+696,Non-survécu,2ème classe,"Chapman, Mr. Charles Henry",male,52.0,0,0,248731,13.5,Southampton
+697,Non-survécu,3ème classe,"Kelly, Mr. James",male,44.0,0,0,363592,8.05,Southampton
+698,Survécu,3ème classe,"Mullens, Miss. Katherine ""Katie""",female,29.69911764705882,0,0,35852,7.7333,Queenstown
+699,Non-survécu,1ère classe,"Thayer, Mr. John Borland",male,49.0,1,1,17421,110.8833,Cherbourg
+700,Non-survécu,3ème classe,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,0,0,348121,7.65,Southampton
+701,Survécu,1ère classe,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,0,PC 17757,227.525,Cherbourg
+702,Survécu,1ère classe,"Silverthorne, Mr. Spencer Victor",male,35.0,0,0,PC 17475,26.2875,Southampton
+703,Non-survécu,3ème classe,"Barbara, Miss. Saiide",female,18.0,0,1,2691,14.4542,Cherbourg
+704,Non-survécu,3ème classe,"Gallagher, Mr. Martin",male,25.0,0,0,36864,7.7417,Queenstown
+705,Non-survécu,3ème classe,"Hansen, Mr. Henrik Juul",male,26.0,1,0,350025,7.8542,Southampton
+706,Non-survécu,2ème classe,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,0,0,250655,26.0,Southampton
+707,Survécu,2ème classe,"Kelly, Mrs. Florence ""Fannie""",female,45.0,0,0,223596,13.5,Southampton
+708,Survécu,1ère classe,"Calderhead, Mr. Edward Pennington",male,42.0,0,0,PC 17476,26.2875,Southampton
+709,Survécu,1ère classe,"Cleaver, Miss. Alice",female,22.0,0,0,113781,151.55,Southampton
+710,Survécu,3ème classe,"Moubarek, Master. Halim Gonios (""William George"")",male,29.69911764705882,1,1,2661,15.2458,Cherbourg
+711,Survécu,1ère classe,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0,0,PC 17482,49.5042,Cherbourg
+712,Non-survécu,1ère classe,"Klaber, Mr. Herman",male,29.69911764705882,0,0,113028,26.55,Southampton
+713,Survécu,1ère classe,"Taylor, Mr. Elmer Zebley",male,48.0,1,0,19996,52.0,Southampton
+714,Non-survécu,3ème classe,"Larsson, Mr. August Viktor",male,29.0,0,0,7545,9.4833,Southampton
+715,Non-survécu,2ème classe,"Greenberg, Mr. Samuel",male,52.0,0,0,250647,13.0,Southampton
+716,Non-survécu,3ème classe,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0,0,348124,7.65,Southampton
+717,Survécu,1ère classe,"Endres, Miss. Caroline Louise",female,38.0,0,0,PC 17757,227.525,Cherbourg
+718,Survécu,2ème classe,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,0,0,34218,10.5,Southampton
+719,Non-survécu,3ème classe,"McEvoy, Mr. Michael",male,29.69911764705882,0,0,36568,15.5,Queenstown
+720,Non-survécu,3ème classe,"Johnson, Mr. Malkolm Joackim",male,33.0,0,0,347062,7.775,Southampton
+721,Survécu,2ème classe,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,1,248727,33.0,Southampton
+722,Non-survécu,3ème classe,"Jensen, Mr. Svend Lauritz",male,17.0,1,0,350048,7.0542,Southampton
+723,Non-survécu,2ème classe,"Gillespie, Mr. William Henry",male,34.0,0,0,12233,13.0,Southampton
+724,Non-survécu,2ème classe,"Hodges, Mr. Henry Price",male,50.0,0,0,250643,13.0,Southampton
+725,Survécu,1ère classe,"Chambers, Mr. Norman Campbell",male,27.0,1,0,113806,53.1,Southampton
+726,Non-survécu,3ème classe,"Oreskovic, Mr. Luka",male,20.0,0,0,315094,8.6625,Southampton
+727,Survécu,2ème classe,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,3,0,31027,21.0,Southampton
+728,Survécu,3ème classe,"Mannion, Miss. Margareth",female,29.69911764705882,0,0,36866,7.7375,Queenstown
+729,Non-survécu,2ème classe,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,1,0,236853,26.0,Southampton
+730,Non-survécu,3ème classe,"Ilmakangas, Miss. Pieta Sofia",female,25.0,1,0,STON/O2. 3101271,7.925,Southampton
+731,Survécu,1ère classe,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,24160,211.3375,Southampton
+732,Non-survécu,3ème classe,"Hassan, Mr. Houssein G N",male,11.0,0,0,2699,18.7875,Cherbourg
+733,Non-survécu,2ème classe,"Knight, Mr. Robert J",male,29.69911764705882,0,0,239855,0.0,Southampton
+734,Non-survécu,2ème classe,"Berriman, Mr. William John",male,23.0,0,0,28425,13.0,Southampton
+735,Non-survécu,2ème classe,"Troupiansky, Mr. Moses Aaron",male,23.0,0,0,233639,13.0,Southampton
+736,Non-survécu,3ème classe,"Williams, Mr. Leslie",male,28.5,0,0,54636,16.1,Southampton
+737,Non-survécu,3ème classe,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,1,3,W./C. 6608,34.375,Southampton
+738,Survécu,1ère classe,"Lesurer, Mr. Gustave J",male,35.0,0,0,PC 17755,512.3292,Cherbourg
+739,Non-survécu,3ème classe,"Ivanoff, Mr. Kanio",male,29.69911764705882,0,0,349201,7.8958,Southampton
+740,Non-survécu,3ème classe,"Nankoff, Mr. Minko",male,29.69911764705882,0,0,349218,7.8958,Southampton
+741,Survécu,1ère classe,"Hawksford, Mr. Walter James",male,29.69911764705882,0,0,16988,30.0,Southampton
+742,Non-survécu,1ère classe,"Cavendish, Mr. Tyrell William",male,36.0,1,0,19877,78.85,Southampton
+743,Survécu,1ère classe,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,PC 17608,262.375,Cherbourg
+744,Non-survécu,3ème classe,"McNamee, Mr. Neal",male,24.0,1,0,376566,16.1,Southampton
+745,Survécu,3ème classe,"Stranden, Mr. Juho",male,31.0,0,0,STON/O 2. 3101288,7.925,Southampton
+746,Non-survécu,1ère classe,"Crosby, Capt. Edward Gifford",male,70.0,1,1,WE/P 5735,71.0,Southampton
+747,Non-survécu,3ème classe,"Abbott, Mr. Rossmore Edward",male,16.0,1,1,C.A. 2673,20.25,Southampton
+748,Survécu,2ème classe,"Sinkkonen, Miss. Anna",female,30.0,0,0,250648,13.0,Southampton
+749,Non-survécu,1ère classe,"Marvin, Mr. Daniel Warner",male,19.0,1,0,113773,53.1,Southampton
+750,Non-survécu,3ème classe,"Connaghton, Mr. Michael",male,31.0,0,0,335097,7.75,Queenstown
+751,Survécu,2ème classe,"Wells, Miss. Joan",female,4.0,1,1,29103,23.0,Southampton
+752,Survécu,3ème classe,"Moor, Master. Meier",male,6.0,0,1,392096,12.475,Southampton
+753,Non-survécu,3ème classe,"Vande Velde, Mr. Johannes Joseph",male,33.0,0,0,345780,9.5,Southampton
+754,Non-survécu,3ème classe,"Jonkoff, Mr. Lalio",male,23.0,0,0,349204,7.8958,Southampton
+755,Survécu,2ème classe,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,1,2,220845,65.0,Southampton
+756,Survécu,2ème classe,"Hamalainen, Master. Viljo",male,0.67,1,1,250649,14.5,Southampton
+757,Non-survécu,3ème classe,"Carlsson, Mr. August Sigfrid",male,28.0,0,0,350042,7.7958,Southampton
+758,Non-survécu,2ème classe,"Bailey, Mr. Percy Andrew",male,18.0,0,0,29108,11.5,Southampton
+759,Non-survécu,3ème classe,"Theobald, Mr. Thomas Leonard",male,34.0,0,0,363294,8.05,Southampton
+760,Survécu,1ère classe,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0,0,110152,86.5,Southampton
+761,Non-survécu,3ème classe,"Garfirth, Mr. John",male,29.69911764705882,0,0,358585,14.5,Southampton
+762,Non-survécu,3ème classe,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,0,0,SOTON/O2 3101272,7.125,Southampton
+763,Survécu,3ème classe,"Barah, Mr. Hanna Assi",male,20.0,0,0,2663,7.2292,Cherbourg
+764,Survécu,1ère classe,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,2,113760,120.0,Southampton
+765,Non-survécu,3ème classe,"Eklund, Mr. Hans Linus",male,16.0,0,0,347074,7.775,Southampton
+766,Survécu,1ère classe,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,0,13502,77.9583,Southampton
+767,Non-survécu,1ère classe,"Brewe, Dr. Arthur Jackson",male,29.69911764705882,0,0,112379,39.6,Cherbourg
+768,Non-survécu,3ème classe,"Mangan, Miss. Mary",female,30.5,0,0,364850,7.75,Queenstown
+769,Non-survécu,3ème classe,"Moran, Mr. Daniel J",male,29.69911764705882,1,0,371110,24.15,Queenstown
+770,Non-survécu,3ème classe,"Gronnestad, Mr. Daniel Danielsen",male,32.0,0,0,8471,8.3625,Southampton
+771,Non-survécu,3ème classe,"Lievens, Mr. Rene Aime",male,24.0,0,0,345781,9.5,Southampton
+772,Non-survécu,3ème classe,"Jensen, Mr. Niels Peder",male,48.0,0,0,350047,7.8542,Southampton
+773,Non-survécu,2ème classe,"Mack, Mrs. (Mary)",female,57.0,0,0,S.O./P.P. 3,10.5,Southampton
+774,Non-survécu,3ème classe,"Elias, Mr. Dibo",male,29.69911764705882,0,0,2674,7.225,Cherbourg
+775,Survécu,2ème classe,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,1,3,29105,23.0,Southampton
+776,Non-survécu,3ème classe,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,0,0,347078,7.75,Southampton
+777,Non-survécu,3ème classe,"Tobin, Mr. Roger",male,29.69911764705882,0,0,383121,7.75,Queenstown
+778,Survécu,3ème classe,"Emanuel, Miss. Virginia Ethel",female,5.0,0,0,364516,12.475,Southampton
+779,Non-survécu,3ème classe,"Kilgannon, Mr. Thomas J",male,29.69911764705882,0,0,36865,7.7375,Queenstown
+780,Survécu,1ère classe,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,0,1,24160,211.3375,Southampton
+781,Survécu,3ème classe,"Ayoub, Miss. Banoura",female,13.0,0,0,2687,7.2292,Cherbourg
+782,Survécu,1ère classe,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,0,17474,57.0,Southampton
+783,Non-survécu,1ère classe,"Long, Mr. Milton Clyde",male,29.0,0,0,113501,30.0,Southampton
+784,Non-survécu,3ème classe,"Johnston, Mr. Andrew G",male,29.69911764705882,1,2,W./C. 6607,23.45,Southampton
+785,Non-survécu,3ème classe,"Ali, Mr. William",male,25.0,0,0,SOTON/O.Q. 3101312,7.05,Southampton
+786,Non-survécu,3ème classe,"Harmer, Mr. Abraham (David Lishin)",male,25.0,0,0,374887,7.25,Southampton
+787,Survécu,3ème classe,"Sjoblom, Miss. Anna Sofia",female,18.0,0,0,3101265,7.4958,Southampton
+788,Non-survécu,3ème classe,"Rice, Master. George Hugh",male,8.0,4,1,382652,29.125,Queenstown
+789,Survécu,3ème classe,"Dean, Master. Bertram Vere",male,1.0,1,2,C.A. 2315,20.575,Southampton
+790,Non-survécu,1ère classe,"Guggenheim, Mr. Benjamin",male,46.0,0,0,PC 17593,79.2,Cherbourg
+791,Non-survécu,3ème classe,"Keane, Mr. Andrew ""Andy""",male,29.69911764705882,0,0,12460,7.75,Queenstown
+792,Non-survécu,2ème classe,"Gaskell, Mr. Alfred",male,16.0,0,0,239865,26.0,Southampton
+793,Non-survécu,3ème classe,"Sage, Miss. Stella Anna",female,29.69911764705882,8,2,CA. 2343,69.55,Southampton
+794,Non-survécu,1ère classe,"Hoyt, Mr. William Fisher",male,29.69911764705882,0,0,PC 17600,30.6958,Cherbourg
+795,Non-survécu,3ème classe,"Dantcheff, Mr. Ristiu",male,25.0,0,0,349203,7.8958,Southampton
+796,Non-survécu,2ème classe,"Otter, Mr. Richard",male,39.0,0,0,28213,13.0,Southampton
+797,Survécu,1ère classe,"Leader, Dr. Alice (Farnham)",female,49.0,0,0,17465,25.9292,Southampton
+798,Survécu,3ème classe,"Osman, Mrs. Mara",female,31.0,0,0,349244,8.6833,Southampton
+799,Non-survécu,3ème classe,"Ibrahim Shawah, Mr. Yousseff",male,30.0,0,0,2685,7.2292,Cherbourg
+800,Non-survécu,3ème classe,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1,1,345773,24.15,Southampton
+801,Non-survécu,2ème classe,"Ponesell, Mr. Martin",male,34.0,0,0,250647,13.0,Southampton
+802,Survécu,2ème classe,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1,1,C.A. 31921,26.25,Southampton
+803,Survécu,1ère classe,"Carter, Master. William Thornton II",male,11.0,1,2,113760,120.0,Southampton
+804,Survécu,3ème classe,"Thomas, Master. Assad Alexander",male,0.42,0,1,2625,8.5167,Cherbourg
+805,Survécu,3ème classe,"Hedman, Mr. Oskar Arvid",male,27.0,0,0,347089,6.975,Southampton
+806,Non-survécu,3ème classe,"Johansson, Mr. Karl Johan",male,31.0,0,0,347063,7.775,Southampton
+807,Non-survécu,1ère classe,"Andrews, Mr. Thomas Jr",male,39.0,0,0,112050,0.0,Southampton
+808,Non-survécu,3ème classe,"Pettersson, Miss. Ellen Natalia",female,18.0,0,0,347087,7.775,Southampton
+809,Non-survécu,2ème classe,"Meyer, Mr. August",male,39.0,0,0,248723,13.0,Southampton
+810,Survécu,1ère classe,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1,0,113806,53.1,Southampton
+811,Non-survécu,3ème classe,"Alexander, Mr. William",male,26.0,0,0,3474,7.8875,Southampton
+812,Non-survécu,3ème classe,"Lester, Mr. James",male,39.0,0,0,A/4 48871,24.15,Southampton
+813,Non-survécu,2ème classe,"Slemen, Mr. Richard James",male,35.0,0,0,28206,10.5,Southampton
+814,Non-survécu,3ème classe,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,4,2,347082,31.275,Southampton
+815,Non-survécu,3ème classe,"Tomlin, Mr. Ernest Portage",male,30.5,0,0,364499,8.05,Southampton
+816,Non-survécu,1ère classe,"Fry, Mr. Richard",male,29.69911764705882,0,0,112058,0.0,Southampton
+817,Non-survécu,3ème classe,"Heininen, Miss. Wendla Maria",female,23.0,0,0,STON/O2. 3101290,7.925,Southampton
+818,Non-survécu,2ème classe,"Mallet, Mr. Albert",male,31.0,1,1,S.C./PARIS 2079,37.0042,Cherbourg
+819,Non-survécu,3ème classe,"Holm, Mr. John Fredrik Alexander",male,43.0,0,0,C 7075,6.45,Southampton
+820,Non-survécu,3ème classe,"Skoog, Master. Karl Thorsten",male,10.0,3,2,347088,27.9,Southampton
+821,Survécu,1ère classe,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,1,12749,93.5,Southampton
+822,Survécu,3ème classe,"Lulic, Mr. Nikola",male,27.0,0,0,315098,8.6625,Southampton
+823,Non-survécu,1ère classe,"Reuchlin, Jonkheer. John George",male,38.0,0,0,19972,0.0,Southampton
+824,Survécu,3ème classe,"Moor, Mrs. (Beila)",female,27.0,0,1,392096,12.475,Southampton
+825,Non-survécu,3ème classe,"Panula, Master. Urho Abraham",male,2.0,4,1,3101295,39.6875,Southampton
+826,Non-survécu,3ème classe,"Flynn, Mr. John",male,29.69911764705882,0,0,368323,6.95,Queenstown
+827,Non-survécu,3ème classe,"Lam, Mr. Len",male,29.69911764705882,0,0,1601,56.4958,Southampton
+828,Survécu,2ème classe,"Mallet, Master. Andre",male,1.0,0,2,S.C./PARIS 2079,37.0042,Cherbourg
+829,Survécu,3ème classe,"McCormack, Mr. Thomas Joseph",male,29.69911764705882,0,0,367228,7.75,Queenstown
+830,Survécu,1ère classe,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0,0,113572,80.0,Southampton
+831,Survécu,3ème classe,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1,0,2659,14.4542,Cherbourg
+832,Survécu,2ème classe,"Richards, Master. George Sibley",male,0.83,1,1,29106,18.75,Southampton
+833,Non-survécu,3ème classe,"Saad, Mr. Amin",male,29.69911764705882,0,0,2671,7.2292,Cherbourg
+834,Non-survécu,3ème classe,"Augustsson, Mr. Albert",male,23.0,0,0,347468,7.8542,Southampton
+835,Non-survécu,3ème classe,"Allum, Mr. Owen George",male,18.0,0,0,2223,8.3,Southampton
+836,Survécu,1ère classe,"Compton, Miss. Sara Rebecca",female,39.0,1,1,PC 17756,83.1583,Cherbourg
+837,Non-survécu,3ème classe,"Pasic, Mr. Jakob",male,21.0,0,0,315097,8.6625,Southampton
+838,Non-survécu,3ème classe,"Sirota, Mr. Maurice",male,29.69911764705882,0,0,392092,8.05,Southampton
+839,Survécu,3ème classe,"Chip, Mr. Chang",male,32.0,0,0,1601,56.4958,Southampton
+840,Survécu,1ère classe,"Marechal, Mr. Pierre",male,29.69911764705882,0,0,11774,29.7,Cherbourg
+841,Non-survécu,3ème classe,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0,0,SOTON/O2 3101287,7.925,Southampton
+842,Non-survécu,2ème classe,"Mudd, Mr. Thomas Charles",male,16.0,0,0,S.O./P.P. 3,10.5,Southampton
+843,Survécu,1ère classe,"Serepeca, Miss. Augusta",female,30.0,0,0,113798,31.0,Cherbourg
+844,Non-survécu,3ème classe,"Lemberopolous, Mr. Peter L",male,34.5,0,0,2683,6.4375,Cherbourg
+845,Non-survécu,3ème classe,"Culumovic, Mr. Jeso",male,17.0,0,0,315090,8.6625,Southampton
+846,Non-survécu,3ème classe,"Abbing, Mr. Anthony",male,42.0,0,0,C.A. 5547,7.55,Southampton
+847,Non-survécu,3ème classe,"Sage, Mr. Douglas Bullen",male,29.69911764705882,8,2,CA. 2343,69.55,Southampton
+848,Non-survécu,3ème classe,"Markoff, Mr. Marin",male,35.0,0,0,349213,7.8958,Cherbourg
+849,Non-survécu,2ème classe,"Harper, Rev. John",male,28.0,0,1,248727,33.0,Southampton
+850,Survécu,1ère classe,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,29.69911764705882,1,0,17453,89.1042,Cherbourg
+851,Non-survécu,3ème classe,"Andersson, Master. Sigvard Harald Elias",male,4.0,4,2,347082,31.275,Southampton
+852,Non-survécu,3ème classe,"Svensson, Mr. Johan",male,74.0,0,0,347060,7.775,Southampton
+853,Non-survécu,3ème classe,"Boulos, Miss. Nourelain",female,9.0,1,1,2678,15.2458,Cherbourg
+854,Survécu,1ère classe,"Lines, Miss. Mary Conover",female,16.0,0,1,PC 17592,39.4,Southampton
+855,Non-survécu,2ème classe,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,1,0,244252,26.0,Southampton
+856,Survécu,3ème classe,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0,1,392091,9.35,Southampton
+857,Survécu,1ère classe,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1,1,36928,164.8667,Southampton
+858,Survécu,1ère classe,"Daly, Mr. Peter Denis ",male,51.0,0,0,113055,26.55,Southampton
+859,Survécu,3ème classe,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,0,3,2666,19.2583,Cherbourg
+860,Non-survécu,3ème classe,"Razi, Mr. Raihed",male,29.69911764705882,0,0,2629,7.2292,Cherbourg
+861,Non-survécu,3ème classe,"Hansen, Mr. Claus Peter",male,41.0,2,0,350026,14.1083,Southampton
+862,Non-survécu,2ème classe,"Giles, Mr. Frederick Edward",male,21.0,1,0,28134,11.5,Southampton
+863,Survécu,1ère classe,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,0,17466,25.9292,Southampton
+864,Non-survécu,3ème classe,"Sage, Miss. Dorothy Edith ""Dolly""",female,29.69911764705882,8,2,CA. 2343,69.55,Southampton
+865,Non-survécu,2ème classe,"Gill, Mr. John William",male,24.0,0,0,233866,13.0,Southampton
+866,Survécu,2ème classe,"Bystrom, Mrs. (Karolina)",female,42.0,0,0,236852,13.0,Southampton
+867,Survécu,2ème classe,"Duran y More, Miss. Asuncion",female,27.0,1,0,SC/PARIS 2149,13.8583,Cherbourg
+868,Non-survécu,1ère classe,"Roebling, Mr. Washington Augustus II",male,31.0,0,0,PC 17590,50.4958,Southampton
+869,Non-survécu,3ème classe,"van Melkebeke, Mr. Philemon",male,29.69911764705882,0,0,345777,9.5,Southampton
+870,Survécu,3ème classe,"Johnson, Master. Harold Theodor",male,4.0,1,1,347742,11.1333,Southampton
+871,Non-survécu,3ème classe,"Balkic, Mr. Cerin",male,26.0,0,0,349248,7.8958,Southampton
+872,Survécu,1ère classe,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,1,11751,52.5542,Southampton
+873,Non-survécu,1ère classe,"Carlsson, Mr. Frans Olof",male,33.0,0,0,695,5.0,Southampton
+874,Non-survécu,3ème classe,"Vander Cruyssen, Mr. Victor",male,47.0,0,0,345765,9.0,Southampton
+875,Survécu,2ème classe,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,1,0,P/PP 3381,24.0,Cherbourg
+876,Survécu,3ème classe,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0,0,2667,7.225,Cherbourg
+877,Non-survécu,3ème classe,"Gustafsson, Mr. Alfred Ossian",male,20.0,0,0,7534,9.8458,Southampton
+878,Non-survécu,3ème classe,"Petroff, Mr. Nedelio",male,19.0,0,0,349212,7.8958,Southampton
+879,Non-survécu,3ème classe,"Laleff, Mr. Kristo",male,29.69911764705882,0,0,349217,7.8958,Southampton
+880,Survécu,1ère classe,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,1,11767,83.1583,Cherbourg
+881,Survécu,2ème classe,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,0,1,230433,26.0,Southampton
+882,Non-survécu,3ème classe,"Markun, Mr. Johann",male,33.0,0,0,349257,7.8958,Southampton
+883,Non-survécu,3ème classe,"Dahlberg, Miss. Gerda Ulrika",female,22.0,0,0,7552,10.5167,Southampton
+884,Non-survécu,2ème classe,"Banfield, Mr. Frederick James",male,28.0,0,0,C.A./SOTON 34068,10.5,Southampton
+885,Non-survécu,3ème classe,"Sutehall, Mr. Henry Jr",male,25.0,0,0,SOTON/OQ 392076,7.05,Southampton
+886,Non-survécu,3ème classe,"Rice, Mrs. William (Margaret Norton)",female,39.0,0,5,382652,29.125,Queenstown
+887,Non-survécu,2ème classe,"Montvila, Rev. Juozas",male,27.0,0,0,211536,13.0,Southampton
+888,Survécu,1ère classe,"Graham, Miss. Margaret Edith",female,19.0,0,0,112053,30.0,Southampton
+889,Non-survécu,3ème classe,"Johnston, Miss. Catherine Helen ""Carrie""",female,29.69911764705882,1,2,W./C. 6607,23.45,Southampton
+890,Survécu,1ère classe,"Behr, Mr. Karl Howell",male,26.0,0,0,111369,30.0,Cherbourg
+891,Non-survécu,3ème classe,"Dooley, Mr. Patrick",male,32.0,0,0,370376,7.75,Queenstown
