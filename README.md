@@ -63,21 +63,21 @@ This project focuses on:
 
 ## ⚙️ Installation & Setup
 
-## 1️⃣ Clone the repository
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/Maryem-Laabidi/titanic-data-mining.git
 cd titanic-data-mining
 ``` 
 
-##2️⃣ Install dependencies
+### 2️⃣ Install dependencies
 
 pip install -r requirements.txt
 
-##3️⃣ Launch Jupyter Notebook
+### 3️⃣ Launch Jupyter Notebook
 
 jupyter notebook
 
-##📈 Key Insights
+### 📈 Key Insights
 
 - Survival Rate: ~38% of passengers survived.
 
@@ -87,7 +87,7 @@ jupyter notebook
 
 - Age Effect: Younger passengers had a slightly higher survival chance.
 
-##🤖 Model Summary
+### 🤖 Model Summary
 
 - Algorithm: Decision Tree Classifier
 
