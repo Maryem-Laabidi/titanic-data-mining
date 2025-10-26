@@ -10,14 +10,14 @@ This project explores the famous **Titanic dataset** from [Kaggle](https://www.k
 | Folder / File                                           | Description                                      |
 | ------------------------------------------------------- | ------------------------------------------------ |
 | `data/train.csv`                                        | Original Titanic dataset                         |
-| `data/clean_train.csv`                                  | Cleaned and preprocessed dataset                 |
+| `data/titanic_clean.csv`                                | Cleaned and preprocessed dataset                 |
 | `notebooks/01_titanic_data_exploration.ipynb`           | Data loading and exploration                     |
 | `notebooks/02_titanic_data_visualization.ipynb`         | Basic visualizations                             |
 | `notebooks/03_titanic_quantitative_relationships.ipynb` | Relationships between quantitative variables     |
 | `notebooks/04_titanic_qualitative_relationships.ipynb`  | Relationships between qualitative variables      |
 | `notebooks/05_titanic_mixed_relationships.ipynb`        | Mixed relationships (quantitative ↔ qualitative) |
-| `notebooks/06_titanic_data_preprocessing.ipynb`         | Data cleaning, missing values, encoding          |
-| `notebooks/07_titanic_decision_tree_model.ipynb`        | Decision Tree model and prediction               |
+| `notebooks/pretraitement_dataset.ipynb`                 | Data cleaning, missing values, encoding          |
+| `notebooks/arbre_de_decision.ipynb`                     | Decision Tree model and prediction               |
 
 
 ---
